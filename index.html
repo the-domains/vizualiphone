@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="the-grid-solution" content=" " /><style type="text/css">
+  .box-sizing {
+  -o-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+html {
+  width: 100%;
+}
+body {
+  width: 100%;
+  background: #eeeeee;
+  color: #bbbbbb;
+  overflow-x: hidden;
+}
+body:after {
+  content: "";
+  position: fixed;
+  left: 50%;
+  top: 0;
+  height: 100%;
+  border-right: 1px solid #dddddd;
+  opacity: .2;
+  z-index: -1;
+}
+@media screen and (max-width: 720px) {
+  body:after {
+    display: none;
+  }
+}
+body a,
+body .cta {
+  color: #cccccc;
+  text-decoration: none;
+  display: inline-block;
+}
+body a:hover *,
+body .cta:hover * {
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  -o-transition-duration: 0.2s;
+  -ms-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-delay: 0s;
+  -moz-transition-delay: 0s;
+  -o-transition-delay: 0s;
+  -ms-transition-delay: 0s;
+  transition-delay: 0s;
+  -webkit-transition-timing-function: linear;
+  -moz-transition-timing-function: linear;
+  -o-transition-timing-function: linear;
+  -ms-transition-timing-function: linear;
+  transition-transition-timing-function: linear;
+  -webkit-transition-property: all;
+  -moz-transition-property: all;
+  -ms-transition-property: all;
+  transition-property: all;
+  opacity: .8;
+}
+*,
+*:before,
+*:after {
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern";
+  -webkit-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern=1";
+  box-sizing: inherit;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-weight: normal;
+  position: relative;
+  padding: 0;
+  margin: 0;
+}
+article.post .title {
+  color: #aaaaaa;
+}
+article.post .description {
+  color: #bbbbbb;
+}
+article.post .overlay {
+  opacity: 0.06;
+}
+article.post .attribution .source {
+  color: #dddddd;
+}
+article.post .attribution .name {
+  color: #bbbbbb;
+}
+article.post .attribution .avatar {
+  background-size: cover;
+}
+svg text,
+svg path {
+  fill: #aaaaaa;
+}
+
+</style><style id="gss-precomputed">
+@media (max-width: 720px) {
+#u102{font-size: 0.16rem;}
+#u102:before{content: "535,1737,2237"; display: none;}
+#u11{font-size: 0.16rem;}
+#u47554608-4144-46df-826e-bc87e16ea315{font-size: 0.16rem;}
+#u5{font-size: 0.16rem;}
+#u3{font-size: 0.16rem;}
+#u2{font-size: 0.1872rem;}
+
+#u4{font-size: 0.24rem;}
+
+#u7{font-size: 0.16rem;}
+#u7>a:nth-of-type(1){font-size: 0.16rem;}
+
+#u7>a:nth-of-type(2){font-size: 0.16rem;}
+
+#u7>a:nth-of-type(3){font-size: 0.16rem;}
+
+#u7>a:nth-of-type(4){font-size: 0.16rem;}
+
+#u9{font-size: 0.16rem;}
+#u9>blockquote:nth-of-type(1){font-size: 0.16rem;}
+
+#u27{font-size: 0.16rem;}
+#u06dfb726-3ea4-4ebe-b87d-6aa7eaa41db0{font-size: 0.16rem;}
+#u16{font-size: 0.16rem;}
+#u14{font-size: 0.16rem;}
+#u13{font-size: 0.1872rem;}
+
+#u15{font-size: 0.24rem;}
+
+#u18{font-size: 0.16rem;}
+
+#u23{overflow: hidden;;font-size: 0.16rem;}
+#u22{font-size: 0.16rem;}
+#u21{height: 4rem; width: 3rem; position: absolute; top: -1.18rem; left: 0rem;;font-size: 0.16rem;}
+
+#u25{font-size: 0.16rem;}
+#u25>article:nth-of-type(1){font-size: 0.16rem;}
+#u25>article:nth-of-type(1)>h1:nth-of-type(1){font-size: 0.16rem;}
+
+#u25>article:nth-of-type(1)>p:nth-of-type(1){font-size: 0.16rem;}
+
+#u25>article:nth-of-type(1)>img:nth-of-type(1){font-size: 0.16rem;}
+
+#u45{font-size: 0.16rem;}
+#u887b4fe9-c1b2-4b20-9ac5-3ae577410b85{font-size: 0.16rem;}
+#u31{font-size: 0.16rem;}
+#u29{font-size: 0.16rem;}
+#u28{font-size: 0.1872rem;}
+
+#u30{font-size: 0.24rem;}
+
+#u32{font-size: 0.16rem;}
+
+#u41{overflow: hidden;;font-size: 0.16rem;}
+#u36{font-size: 0.16rem;}
+#u35{height: 2.54rem; width: 4.5rem; position: absolute; top: -19.16rem; left: -1.68rem;;font-size: 0.16rem;}
+
+#u43{font-size: 0.16rem;}
+#u43>img:nth-of-type(1){font-size: 0.16rem;}
+
+#u63{font-size: 0.16rem;}
+#u523e30c9-feac-4de0-8b1d-16e7653a830d{font-size: 0.16rem;}
+#u49{font-size: 0.16rem;}
+#u47{font-size: 0.16rem;}
+#u46{font-size: 0.1872rem;}
+
+#u48{font-size: 0.24rem;}
+
+#u50{font-size: 0.16rem;}
+
+#u59{overflow: hidden;;font-size: 0.16rem;}
+#u54{font-size: 0.16rem;}
+#u53{height: 2.11rem; width: 3rem; position: absolute; top: -30.41rem; left: 0rem;;font-size: 0.16rem;}
+
+#u61{font-size: 0.16rem;}
+#u61>img:nth-of-type(1){font-size: 0.16rem;}
+
+#u83{font-size: 0.16rem;}
+#u4fc58aee-7964-4e64-be8b-3ed953a5b47c{font-size: 0.16rem;}
+#u68{font-size: 0.16rem;}
+#u66{font-size: 0.16rem;}
+#u65{font-size: 0.1872rem;}
+
+#u67{font-size: 0.24rem;}
+
+#u70{font-size: 0.16rem;}
+
+#u79{overflow: hidden;;font-size: 0.16rem;}
+#u74{font-size: 0.16rem;}
+#u73{height: 1.53rem; width: 2.31rem; position: absolute; top: -40.24rem; left: 0rem;;font-size: 0.16rem;}
+
+#u81{font-size: 0.16rem;}
+#u81>article:nth-of-type(1){font-size: 0.16rem;}
+#u81>article:nth-of-type(1)>h1:nth-of-type(1){font-size: 0.16rem;}
+
+#u81>article:nth-of-type(1)>p:nth-of-type(1){font-size: 0.16rem;}
+
+#u81>article:nth-of-type(1)>img:nth-of-type(1){font-size: 0.16rem;}
+
+#u101{font-size: 0.16rem;}
+#ubb446c79-3635-4fd4-8786-703bfa4c111b{font-size: 0.16rem;}
+#u87{font-size: 0.16rem;}
+#u85{font-size: 0.16rem;}
+#u84{font-size: 0.1872rem;}
+
+#u86{font-size: 0.24rem;}
+
+#u88{font-size: 0.16rem;}
+
+#u97{overflow: hidden;;font-size: 0.16rem;}
+#u92{font-size: 0.16rem;}
+#u91{height: 2.25rem; width: 3.01rem; position: absolute; top: -47.68rem; left: -0.47rem;;font-size: 0.16rem;}
+
+#u99{font-size: 0.16rem;}
+#u99>img:nth-of-type(1){font-size: 0.16rem;}
+
+#u103{font-size: 0.16rem;}
+
+}
+@media (min-width: 721px) {
+#u102{font-size: 0.16rem;}
+#u102:before{content: "535,1737,2237"; display: none;}
+#u11{font-size: 0.16rem;}
+#u47554608-4144-46df-826e-bc87e16ea315{font-size: 0.16rem;}
+#u5{font-size: 0.16rem;}
+#u3{font-size: 0.16rem;}
+#u2{font-size: 0.1872rem;}
+
+#u4{font-size: 0.24rem;}
+
+#u7{font-size: 0.16rem;}
+#u7>a:nth-of-type(1){font-size: 0.16rem;}
+
+#u7>a:nth-of-type(2){font-size: 0.16rem;}
+
+#u7>a:nth-of-type(3){font-size: 0.16rem;}
+
+#u7>a:nth-of-type(4){font-size: 0.16rem;}
+
+#u9{font-size: 0.16rem;}
+#u9>blockquote:nth-of-type(1){font-size: 0.16rem;}
+
+#u27{font-size: 0.16rem;}
+#u06dfb726-3ea4-4ebe-b87d-6aa7eaa41db0{font-size: 0.16rem;}
+#u16{font-size: 0.16rem;}
+#u14{font-size: 0.16rem;}
+#u13{font-size: 0.1872rem;}
+
+#u15{font-size: 0.24rem;}
+
+#u18{font-size: 0.16rem;}
+
+#u23{overflow: hidden;;font-size: 0.16rem;}
+#u22{font-size: 0.16rem;}
+#u21{height: 4rem; width: 3rem; position: absolute; top: -1.18rem; left: 0rem;;font-size: 0.16rem;}
+
+#u25{font-size: 0.16rem;}
+#u25>article:nth-of-type(1){font-size: 0.16rem;}
+#u25>article:nth-of-type(1)>h1:nth-of-type(1){font-size: 0.16rem;}
+
+#u25>article:nth-of-type(1)>p:nth-of-type(1){font-size: 0.16rem;}
+
+#u25>article:nth-of-type(1)>img:nth-of-type(1){font-size: 0.16rem;}
+
+#u45{font-size: 0.16rem;}
+#u887b4fe9-c1b2-4b20-9ac5-3ae577410b85{font-size: 0.16rem;}
+#u31{font-size: 0.16rem;}
+#u29{font-size: 0.16rem;}
+#u28{font-size: 0.1872rem;}
+
+#u30{font-size: 0.24rem;}
+
+#u32{font-size: 0.16rem;}
+
+#u41{overflow: hidden;;font-size: 0.16rem;}
+#u36{font-size: 0.16rem;}
+#u35{height: 2.54rem; width: 4.5rem; position: absolute; top: -19.16rem; left: -1.68rem;;font-size: 0.16rem;}
+
+#u43{font-size: 0.16rem;}
+#u43>img:nth-of-type(1){font-size: 0.16rem;}
+
+#u63{font-size: 0.16rem;}
+#u523e30c9-feac-4de0-8b1d-16e7653a830d{font-size: 0.16rem;}
+#u49{font-size: 0.16rem;}
+#u47{font-size: 0.16rem;}
+#u46{font-size: 0.1872rem;}
+
+#u48{font-size: 0.24rem;}
+
+#u50{font-size: 0.16rem;}
+
+#u59{overflow: hidden;;font-size: 0.16rem;}
+#u54{font-size: 0.16rem;}
+#u53{height: 2.11rem; width: 3rem; position: absolute; top: -30.41rem; left: 0rem;;font-size: 0.16rem;}
+
+#u61{font-size: 0.16rem;}
+#u61>img:nth-of-type(1){font-size: 0.16rem;}
+
+#u83{font-size: 0.16rem;}
+#u4fc58aee-7964-4e64-be8b-3ed953a5b47c{font-size: 0.16rem;}
+#u68{font-size: 0.16rem;}
+#u66{font-size: 0.16rem;}
+#u65{font-size: 0.1872rem;}
+
+#u67{font-size: 0.24rem;}
+
+#u70{font-size: 0.16rem;}
+
+#u79{overflow: hidden;;font-size: 0.16rem;}
+#u74{font-size: 0.16rem;}
+#u73{height: 1.53rem; width: 2.31rem; position: absolute; top: -40.24rem; left: 0rem;;font-size: 0.16rem;}
+
+#u81{font-size: 0.16rem;}
+#u81>article:nth-of-type(1){font-size: 0.16rem;}
+#u81>article:nth-of-type(1)>h1:nth-of-type(1){font-size: 0.16rem;}
+
+#u81>article:nth-of-type(1)>p:nth-of-type(1){font-size: 0.16rem;}
+
+#u81>article:nth-of-type(1)>img:nth-of-type(1){font-size: 0.16rem;}
+
+#u101{font-size: 0.16rem;}
+#ubb446c79-3635-4fd4-8786-703bfa4c111b{font-size: 0.16rem;}
+#u87{font-size: 0.16rem;}
+#u85{font-size: 0.16rem;}
+#u84{font-size: 0.1872rem;}
+
+#u86{font-size: 0.24rem;}
+
+#u88{font-size: 0.16rem;}
+
+#u97{overflow: hidden;;font-size: 0.16rem;}
+#u92{font-size: 0.16rem;}
+#u91{height: 2.25rem; width: 3.01rem; position: absolute; top: -47.68rem; left: -0.47rem;;font-size: 0.16rem;}
+
+#u99{font-size: 0.16rem;}
+#u99>img:nth-of-type(1){font-size: 0.16rem;}
+
+#u103{font-size: 0.16rem;}
+
+}</style><script src="//ajax.googleapis.com/ajax/libs/webfont/1.5.10/webfont.js"></script><script>WebFont.load({"google":{"families":["Roboto:400,700","Roboto:300,300italic,700,700italic"]}});</script><style type="text/css">html {font-family: 'Roboto';font-weight: 300;}
+ .layout-system .hero {font-family: 'Roboto';font-weight: 400;}
+ .layout-system .title {font-family: 'Roboto';}
+ .layout-system .subtitle {font-family: 'Roboto';}
+ .layout-system .description {font-family: 'Roboto';}
+ .layout-system .title {font-weight: 400;}
+ .layout-system .subtitle {font-weight: 700;}
+ a {font-family: 'Roboto';font-weight: 300;}
+ .attribution {font-family: 'Roboto';font-weight: 300;text-transform: uppercase;letter-spacing: .07em;}
+ .layout-system .quote {font-family: 'Roboto';font-weight: 400;font-style: normal;}
+ .layout-system .subtitle {text-transform: uppercase;letter-spacing: .03em;}</style></head>
+
+  <body id="u104"><script src="//cdn.thegrid.io/design-systems/taylor/0.0.57/src/assets/gss-init.js" id="u0"></script>
+    <!-- <div id="grid">
+  <div class="col1"></div>
+  <div class="col2"></div>
+  <div class="col3"></div>
+  <div class="col4"></div>
+  <div class="col5"></div>
+  <div class="col6"></div>
+  <div class="col7"></div>
+  <div class="col8"></div>
+  <div class="col9"></div>
+  <div class="col10"></div>
+  <div class="col11"></div>
+  <div class="col12"></div>
+  <div class="col13"></div>
+  <div class="col15"></div>
+  <div class="col16"></div>
+  <div class="col17"></div>
+  <div class="col18"></div>
+  <div class="col19"></div>
+  <div class="col20"></div>
+  <div class="row1"></div>
+  <div class="row2"></div>
+  <div class="row3"></div>
+  <div class="row4"></div>
+  <div class="row5"></div>
+  <div class="row6"></div>
+  <div class="row7"></div>
+  <div class="row8"></div>
+  <div class="row9"></div>
+  <div class="row10"></div>
+  <div class="row11"></div>
+  <div class="row12"></div>
+  <div class="row13"></div>
+  <div class="row15"></div>
+  <div class="row16"></div>
+  <div class="row17"></div>
+  <div class="row18"></div>
+  <div class="row19"></div>
+  <div class="row20"></div>
+  <div class="row21"></div>
+  <div class="row22"></div>
+  <div class="row23"></div>
+  <div class="row24"></div>
+  <div class="row25"></div>
+  <div class="row26"></div>
+  <div class="row27"></div>
+  <div class="row28"></div>
+  <div class="row29"></div>
+  <div class="row30"></div>
+</div> -->
+    <div class="layout-system computed fallback sections" id="u102">
+      <section class="section-fallback left section" id="u11">
+        <article class="post" id="u47554608-4144-46df-826e-bc87e16ea315">
+          <div class="titles" id="u5">
+            <a href="https://twitter.com/JefnJul" id="u3">
+              <h1 class="title text" id="u2"></h1>
+            </a>
+            <h2 class="subtitle text" id="u4"></h2>
+          </div>
+          <p class="description text" id="u7">The latest Tweets from Jeff & Julia Woods (
+            <a href="https://twitter.com/JefnJul" class="linker linker-twitter">@JefnJul</a>). Photographers and Business coaches
+            <a href="http://t.co/RyrMzUhKtW" class="linker linker-url">t.co/RyrMz..</a>
+            <a href="http://t.co/8lDkmZ0K8X" class="linker linker-url">t.co/8lDkm..</a> Community Evangelist
+            <a href="https://twitter.com/theGrid" class="linker linker-twitter">@theGrid</a>. iPhone: 40.703659,-89.403839</p>
+          <div class="html" id="u9">
+            <blockquote>The latest Tweets from Jeff &amp; Julia Woods &lpar;&commat;JefnJul&rpar;&period; Photographers and Business coaches http&colon;&sol;&sol;t&period;co&sol;RyrMzUhKtW http&colon;&sol;&sol;t&period;co&sol;8lDkmZ0K8X Community Evangelist &commat;theGrid&period; iPhone&colon; 40&period;703659&comma;-89&period;403839</blockquote>
+          </div>
+        </article>
+      </section>
+      <section class="section-fallback right section" id="u27">
+        <article class="post" id="u06dfb726-3ea4-4ebe-b87d-6aa7eaa41db0">
+          <div class="titles" id="u16">
+            <a href="http://www.filipmolcan.com/iphonegraphy/" id="u14">
+              <h1 class="title text" id="u13">iPhonegraphy</h1>
+            </a>
+            <h2 class="subtitle text" id="u15"></h2>
+          </div>
+          <p class="description text" id="u18">Filip Molcan | startups | innovations | photography</p>
+          <div class="cover image" id="u23"><style type="text/gss" scoped="scoped" id="u20">overflow: hidden;
+"viewport"[top] == &top px  !require;
+"viewport"[left] == &left  px !require;
+"viewport"[height] == &height px  !require;
+"viewport"[width] == &width  px !require;
+
+@v |~[cover-v-gap]~("viewport")~[cover-v-gap]~| in(img) !strong900;
+@h |~[cover-h-gap]~("viewport")~[cover-h-gap]~| in(img) !strong900;
+
+cover-h-gap == 0 !strong;
+cover-v-gap == 0 !strong;
+
+image-min-scale = 0.3;
+image-max-scale = 1;
+
+/* Define image dimensions and ratio */
+image-scale == img[width] / 1000 !require;
+img[height] == img[width] * (1333/1000) !require;
+
+/* enforce minimum scale*/
+img[height] >= 1333 * image-min-scale !require;
+img[height] <= 1333 * image-max-scale !require;</style>
+            <a href="http://www.filipmolcan.com/iphonegraphy/" id="u22">
+              <img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2e52a1f37daa7984f5bac05a0ed50a6e/passthrough.jpg?input=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F5024aa09e4b042cc9c7a0919%2F539da12ce4b0ff8c3f0ea2ef%2F539da18ce4b05719d3459630%2F1402839442821%2FIMG_0535_HDR.jpg&width=1000&height=1333" srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bb1fbd31aa4c638a97995a6b3420f921/passthrough.jpg?input=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F5024aa09e4b042cc9c7a0919%2F539da12ce4b0ff8c3f0ea2ef%2F539da18ce4b05719d3459630%2F1402839442821%2FIMG_0535_HDR.jpg&width=720&height=959.7599999999999 720w, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2e52a1f37daa7984f5bac05a0ed50a6e/passthrough.jpg?input=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F5024aa09e4b042cc9c7a0919%2F539da12ce4b0ff8c3f0ea2ef%2F539da18ce4b05719d3459630%2F1402839442821%2FIMG_0535_HDR.jpg&width=1000&height=1333 1000w" sizes="sizes='(min-width: 1400px) 1400px, 100vw'" id="u21" />
+            </a>
+          </div>
+          <div class="html" id="u25">
+            <article>
+              <h1>iPhonegraphy</h1>
+              <p>Filip Molcan &vert; startups &vert; innovations &vert; photography</p>
+              <img src="http://static1.squarespace.com/static/5024aa09e4b042cc9c7a0919/539da12ce4b0ff8c3f0ea2ef/539da18ce4b05719d3459630/1402839442821/IMG_0535_HDR.jpg">
+            </article>
+          </div>
+        </article>
+      </section>
+      <section class="section-fallback left section" id="u45">
+        <article class="post" id="u887b4fe9-c1b2-4b20-9ac5-3ae577410b85">
+          <div class="titles" id="u31">
+            <a href="http://illusion.scene360.com/art/79392/andreas-lie/" id="u29">
+              <h1 class="title text" id="u28"></h1>
+            </a>
+            <h2 class="subtitle text" id="u30"></h2>
+          </div>
+          <p class="description text" id="u32"></p>
+          <div class="cover image" id="u41"><style type="text/gss" scoped="scoped" id="u34">overflow: hidden;
+"viewport"[top] == &top px  !require;
+"viewport"[left] == &left  px !require;
+"viewport"[height] == &height px  !require;
+"viewport"[width] == &width  px !require;
+
+@v |~[cover-v-gap]~("viewport")~[cover-v-gap]~| in(img) !strong900;
+@h |~[cover-h-gap]~("viewport")~[cover-h-gap]~| in(img) !strong900;
+
+cover-h-gap == 0 !strong;
+cover-v-gap == 0 !strong;
+
+image-min-scale = 0.3;
+image-max-scale = 1;
+
+/* Define image dimensions and ratio */
+image-scale == img[width] / 1500 !require;
+img[height] == img[width] * (844/1500) !require;
+
+/* enforce minimum scale*/
+img[height] >= 844 * image-min-scale !require;
+img[height] <= 844 * image-max-scale !require;</style>
+            <a href="http://illusion.scene360.com/art/79392/andreas-lie/" id="u36">
+              <img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f8ffb203196b37da7a62c009e798201a/passthrough.jpg?input=http%3A%2F%2Fillusion.scene360.com%2Fwp-content%2Fthemes%2Fsahara-10%2Fsubmissions%2F2015%2F05%2Fandreas-lie-02.jpg&width=1500&height=844" srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f88a23ac1b335071de03ebab2d63275a/passthrough.jpg?input=http%3A%2F%2Fillusion.scene360.com%2Fwp-content%2Fthemes%2Fsahara-10%2Fsubmissions%2F2015%2F05%2Fandreas-lie-02.jpg&width=720&height=405.12 720w, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7e4b81a3fe62e1991c6f9d2d3e9cfa7c/passthrough.jpg?input=http%3A%2F%2Fillusion.scene360.com%2Fwp-content%2Fthemes%2Fsahara-10%2Fsubmissions%2F2015%2F05%2Fandreas-lie-02.jpg&width=1440&height=810.24 1440w" sizes="sizes='(min-width: 1400px) 1400px, 100vw'" id="u35" />
+            </a><style type="text/gss" scoped="scoped" id="u38">/* define  blank spot */
+"space"[x] == img[x] + 0 * image-scale !require;
+"space"[y] == img[y] + 0 * image-scale !require;
+"space"[width] ==  544 * image-scale !require;
+"space"[height] == 696 * image-scale !require;</style><style type="text/gss" scoped="scoped" id="u40">/* define  area of importance */
+"scene"[x] == img[x] + 562 * image-scale !require;
+"scene"[y] == img[y] + 323 * image-scale !require;
+"scene"[width] ==  461 * image-scale !require;
+"scene"[height] == 227 * image-scale !require;
+
+/* Keep saliency towards original position */
+"scene"[center-x] == "viewport"[center-x];
+"scene"[center-y] == "viewport"[center-y];
+
+@v |~("scene")~| in("viewport");
+@h |~("scene")~| in("viewport");</style></div>
+          <div class="html" id="u43">
+            <img src="http://illusion.scene360.com/wp-content/themes/sahara-10/submissions/2015/05/andreas-lie-02.jpg">
+          </div>
+        </article>
+      </section>
+      <section class="section-fallback right section" id="u63">
+        <article class="post" id="u523e30c9-feac-4de0-8b1d-16e7653a830d">
+          <div class="titles" id="u49">
+            <a href="http://www.filipmolcan.com/blog/2015/4/12/great-portraits-by-christophe-gilbert?utm_content=bufferad811&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer" id="u47">
+              <h1 class="title text" id="u46"></h1>
+            </a>
+            <h2 class="subtitle text" id="u48"></h2>
+          </div>
+          <p class="description text" id="u50"></p>
+          <div class="cover image" id="u59"><style type="text/gss" scoped="scoped" id="u52">overflow: hidden;
+"viewport"[top] == &top px  !require;
+"viewport"[left] == &left  px !require;
+"viewport"[height] == &height px  !require;
+"viewport"[width] == &width  px !require;
+
+@v |~[cover-v-gap]~("viewport")~[cover-v-gap]~| in(img) !strong900;
+@h |~[cover-h-gap]~("viewport")~[cover-h-gap]~| in(img) !strong900;
+
+cover-h-gap == 0 !strong;
+cover-v-gap == 0 !strong;
+
+image-min-scale = 0.3;
+image-max-scale = 1;
+
+/* Define image dimensions and ratio */
+image-scale == img[width] / 1000 !require;
+img[height] == img[width] * (703/1000) !require;
+
+/* enforce minimum scale*/
+img[height] >= 703 * image-min-scale !require;
+img[height] <= 703 * image-max-scale !require;</style>
+            <a href="http://www.filipmolcan.com/blog/2015/4/12/great-portraits-by-christophe-gilbert?utm_content=bufferad811&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer" id="u54">
+              <img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5fb0d5548315345071bcae6605e15188/passthrough.png?input=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F5024aa09e4b042cc9c7a0919%2F552a3336e4b031351c18cb5f%2F552a333be4b0c842cdb4a712%2F1428828989094%2FChristophe_Gilbert_-_Photographer_1.png%3Fformat%3D1000w&width=1000&height=703" srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/67d68c7c3b9d71e218c656d7b7c716a4/passthrough.png?input=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F5024aa09e4b042cc9c7a0919%2F552a3336e4b031351c18cb5f%2F552a333be4b0c842cdb4a712%2F1428828989094%2FChristophe_Gilbert_-_Photographer_1.png%3Fformat%3D1000w&width=720&height=506.16 720w, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5fb0d5548315345071bcae6605e15188/passthrough.png?input=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F5024aa09e4b042cc9c7a0919%2F552a3336e4b031351c18cb5f%2F552a333be4b0c842cdb4a712%2F1428828989094%2FChristophe_Gilbert_-_Photographer_1.png%3Fformat%3D1000w&width=1000&height=703 1000w" sizes="sizes='(min-width: 1400px) 1400px, 100vw'" id="u53" />
+            </a><style type="text/gss" scoped="scoped" id="u56">/* define  blank spot */
+"space"[x] == img[x] + 0 * image-scale !require;
+"space"[y] == img[y] + 0 * image-scale !require;
+"space"[width] ==  290 * image-scale !require;
+"space"[height] == 126 * image-scale !require;</style><style type="text/gss" scoped="scoped" id="u58">/* define  area of importance */
+"scene"[x] == img[x] + 1 * image-scale !require;
+"scene"[y] == img[y] + 127 * image-scale !require;
+"scene"[width] ==  816 * image-scale !require;
+"scene"[height] == 434 * image-scale !require;
+
+/* Keep saliency towards original position */
+"scene"[center-x] == "viewport"[center-x];
+"scene"[center-y] == "viewport"[center-y];
+
+@v |~("scene")~| in("viewport");
+@h |~("scene")~| in("viewport");</style></div>
+          <div class="html" id="u61">
+            <img src="http://static1.squarespace.com/static/5024aa09e4b042cc9c7a0919/552a3336e4b031351c18cb5f/552a333be4b0c842cdb4a712/1428828989094/Christophe_Gilbert_-_Photographer_1.png?format=1000w">
+          </div>
+        </article>
+      </section>
+      <section class="section-fallback left section" id="u83">
+        <article class="post" id="u4fc58aee-7964-4e64-be8b-3ed953a5b47c">
+          <div class="titles" id="u68">
+            <a href="http://www.cnet.com/news/pro-photographer-iphone-julian-calverley-interview/?utm_content=bufferf2cfe&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer" id="u66">
+              <h1 class="title text" id="u65">Why a pro photographer shoots on an iPhone - CNET</h1>
+            </a>
+            <h2 class="subtitle text" id="u67"></h2>
+          </div>
+          <p class="description text" id="u70">Taking photos has long been one of the main selling points of the iPhone, but mobile photography has largely remained the realm of enthusiastic amateurs, populating Instagram and other social networks with artful snapshots. With their lower resolution and lack of upgradeable lenses, phones haven't played a big role in professional photography.</p>
+          <div class="cover image" id="u79"><style type="text/gss" scoped="scoped" id="u72">overflow: hidden;
+"viewport"[top] == &top px  !require;
+"viewport"[left] == &left  px !require;
+"viewport"[height] == &height px  !require;
+"viewport"[width] == &width  px !require;
+
+@v |~[cover-v-gap]~("viewport")~[cover-v-gap]~| in(img) !strong900;
+@h |~[cover-h-gap]~("viewport")~[cover-h-gap]~| in(img) !strong900;
+
+cover-h-gap == 0 !strong;
+cover-v-gap == 0 !strong;
+
+image-min-scale = 0.3;
+image-max-scale = 1;
+
+/* Define image dimensions and ratio */
+image-scale == img[width] / 770 !require;
+img[height] == img[width] * (507/770) !require;
+
+/* enforce minimum scale*/
+img[height] >= 507 * image-min-scale !require;
+img[height] <= 507 * image-max-scale !require;</style>
+            <a href="http://www.cnet.com/news/pro-photographer-iphone-julian-calverley-interview/?utm_content=bufferf2cfe&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer" id="u74">
+              <img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/888badb809abf1cbf46f469f2bd726cf/passthrough.jpg?input=http%3A%2F%2Fcnet2.cbsistatic.com%2Fhub%2Fi%2Fr%2F2015%2F04%2F24%2F2445db7e-eb57-4599-9179-2c6f7e42e790%2Fresize%2F770x578%2F9d1f7dd0ba2e170d0132b5e3e725fe45%2Fjulian-calverley-iphone-only-examples.jpg&width=770&height=507" srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0ab6f674c09516c6b6491369ee0eacc3/passthrough.jpg?input=http%3A%2F%2Fcnet2.cbsistatic.com%2Fhub%2Fi%2Fr%2F2015%2F04%2F24%2F2445db7e-eb57-4599-9179-2c6f7e42e790%2Fresize%2F770x578%2F9d1f7dd0ba2e170d0132b5e3e725fe45%2Fjulian-calverley-iphone-only-examples.jpg&width=720&height=474.0779220779221 720w, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/888badb809abf1cbf46f469f2bd726cf/passthrough.jpg?input=http%3A%2F%2Fcnet2.cbsistatic.com%2Fhub%2Fi%2Fr%2F2015%2F04%2F24%2F2445db7e-eb57-4599-9179-2c6f7e42e790%2Fresize%2F770x578%2F9d1f7dd0ba2e170d0132b5e3e725fe45%2Fjulian-calverley-iphone-only-examples.jpg&width=770&height=507 770w" sizes="sizes='(min-width: 1400px) 1400px, 100vw'" id="u73" />
+            </a><style type="text/gss" scoped="scoped" id="u76">/* define  blank spot */
+"space"[x] == img[x] + 0 * image-scale !require;
+"space"[y] == img[y] + 540 * image-scale !require;
+"space"[width] ==  986 * image-scale !require;
+"space"[height] == 765 * image-scale !require;</style><style type="text/gss" scoped="scoped" id="u78">/* define  area of importance */
+"scene"[x] == img[x] + 1 * image-scale !require;
+"scene"[y] == img[y] + 1 * image-scale !require;
+"scene"[width] ==  768 * image-scale !require;
+"scene"[height] == 505 * image-scale !require;
+
+/* Keep saliency towards original position */
+"scene"[center-x] == "viewport"[center-x];
+"scene"[center-y] == "viewport"[center-y];
+
+@v |~("scene")~| in("viewport");
+@h |~("scene")~| in("viewport");</style></div>
+          <div class="html" id="u81">
+            <article>
+              <h1>Why a pro photographer shoots on an iPhone - CNET</h1>
+              <p>Taking photos has long been one of the main selling points of the iPhone&comma; but mobile photography has largely remained the realm of enthusiastic amateurs&comma; populating Instagram and other social networks with artful snapshots&period; With their lower resolution and lack of upgradeable lenses&comma; phones haven&apos;t played a big role in professional photography&period;</p>
+              <img src="http://cnet2.cbsistatic.com/hub/i/r/2015/04/24/2445db7e-eb57-4599-9179-2c6f7e42e790/resize/770x578/9d1f7dd0ba2e170d0132b5e3e725fe45/julian-calverley-iphone-only-examples.jpg">
+            </article>
+          </div>
+        </article>
+      </section>
+      <section class="section-fallback right section" id="u101">
+        <article class="post" id="ubb446c79-3635-4fd4-8786-703bfa4c111b">
+          <div class="titles" id="u87">
+            <a href="http://www.juliancalverley.com/commissioned/4/automotive/15/" id="u85">
+              <h1 class="title text" id="u84"></h1>
+            </a>
+            <h2 class="subtitle text" id="u86"></h2>
+          </div>
+          <p class="description text" id="u88"></p>
+          <div class="cover image" id="u97"><style type="text/gss" scoped="scoped" id="u90">overflow: hidden;
+"viewport"[top] == &top px  !require;
+"viewport"[left] == &left  px !require;
+"viewport"[height] == &height px  !require;
+"viewport"[width] == &width  px !require;
+
+@v |~[cover-v-gap]~("viewport")~[cover-v-gap]~| in(img) !strong900;
+@h |~[cover-h-gap]~("viewport")~[cover-h-gap]~| in(img) !strong900;
+
+cover-h-gap == 0 !strong;
+cover-v-gap == 0 !strong;
+
+image-min-scale = 0.3;
+image-max-scale = 1;
+
+/* Define image dimensions and ratio */
+image-scale == img[width] / 1000 !require;
+img[height] == img[width] * (750/1000) !require;
+
+/* enforce minimum scale*/
+img[height] >= 750 * image-min-scale !require;
+img[height] <= 750 * image-max-scale !require;</style>
+            <a href="http://www.juliancalverley.com/commissioned/4/automotive/15/" id="u92">
+              <img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4bd59adb9fb2f6a3c704028531521250/passthrough.jpg?input=http%3A%2F%2Fwww.juliancalverley.com%2Fi%2Flge%2Fjc_www_667_501770146.jpg&width=1000&height=750" srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ab1752e82b23aa1b6d6f862505f7138c/passthrough.jpg?input=http%3A%2F%2Fwww.juliancalverley.com%2Fi%2Flge%2Fjc_www_667_501770146.jpg&width=720&height=540 720w, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4bd59adb9fb2f6a3c704028531521250/passthrough.jpg?input=http%3A%2F%2Fwww.juliancalverley.com%2Fi%2Flge%2Fjc_www_667_501770146.jpg&width=1000&height=750 1000w" sizes="sizes='(min-width: 1400px) 1400px, 100vw'" id="u91" />
+            </a><style type="text/gss" scoped="scoped" id="u94">/* define  blank spot */
+"space"[x] == img[x] + 0 * image-scale !require;
+"space"[y] == img[y] + 0 * image-scale !require;
+"space"[width] ==  1486.81640625 * image-scale !require;
+"space"[height] == 146.484375 * image-scale !require;</style><style type="text/gss" scoped="scoped" id="u96">/* define  area of importance */
+"scene"[x] == img[x] + 159.66796875 * image-scale !require;
+"scene"[y] == img[y] + 145.01953125 * image-scale !require;
+"scene"[width] ==  1129.39453125 * image-scale !require;
+"scene"[height] == 859.86328125 * image-scale !require;
+
+/* Keep saliency towards original position */
+"scene"[center-x] == "viewport"[center-x];
+"scene"[center-y] == "viewport"[center-y];
+
+@v |~("scene")~| in("viewport");
+@h |~("scene")~| in("viewport");</style></div>
+          <div class="html" id="u99">
+            <img src="http://www.juliancalverley.com/i/lge/jc_www_667_501770146.jpg">
+          </div>
+        </article>
+      </section>
+    </div>
+    <div id="u103"></div>
+  </body>
+
+</html>
