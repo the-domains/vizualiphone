@@ -5,19 +5,19 @@ starred: false
 keywords: []
 description: 'TELE LENS  Our telephoto lens gets you twice as close to the action with no distortion or degradation to the image. It’s perfect for street portraits, adventure'
 author: []
-datePublished: '2015-07-24T14:51:55.812Z'
+datePublished: '2015-07-24T17:00:07.758Z'
 title: BEST IPHONE LENS ON THE MARKET
 tags:
   - ''
+dateModified: '2015-07-24T17:00:07.758Z'
+sourcePath: _posts/2015-07-24-best-iphone-lens-on-the-market.md
+published: true
 authors: []
 publisher:
   name: momentlens.co
   domain: momentlens.co
   url: null
   favicon: null
-dateModified: '2015-07-24T14:51:55.812Z'
-sourcePath: _posts/2015-07-24-best-iphone-lens-on-the-market.md
-published: true
 url: best-iphone-lens-on-the-market/index.html
 _type: Article
 _context: 'http://schema.org'
