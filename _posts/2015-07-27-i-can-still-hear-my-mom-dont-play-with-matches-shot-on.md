@@ -26,7 +26,7 @@ publisher:
   domain: instagram.com
   url: 'https://instagram.com/'
   favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/778afde/images/ico/favicon.ico'
-dateModified: '2015-07-27T15:30:41.813Z'
+dateModified: '2015-07-27T17:18:45.445Z'
 sourcePath: _posts/2015-07-27-i-can-still-hear-my-mom-dont-play-with-matches-shot-on.md
 published: true
 _type: Photograph
