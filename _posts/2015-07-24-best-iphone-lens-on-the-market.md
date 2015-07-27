@@ -9,7 +9,7 @@ datePublished: '2015-07-24T17:00:07.758Z'
 title: BEST IPHONE LENS ON THE MARKET
 tags:
   - ''
-dateModified: '2015-07-25T00:08:34.741Z'
+dateModified: '2015-07-27T19:32:08.941Z'
 sourcePath: _posts/2015-07-24-best-iphone-lens-on-the-market.md
 published: true
 authors: []
