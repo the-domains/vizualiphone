@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Untitled RSS Feed]]></title>
+        <description><![CDATA[Untitled RSS Feed]]></description>
+        <link>http://myothercamera.is/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 28 Jul 2015 23:50:33 GMT</lastBuildDate>
+        <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Photographers Playbook]]></title>
+            <description><![CDATA[<article><h1>The Photographers Playbook</h1><p>When you are a wedding or portrait photographer one issue that WILL happen is you are going to have ups and downs. When you are up you feel like a creative genius. When you are down you feel like maybe this is not the craft for you.</p></article>]]></description>
+            <link>http://www.theimagejournal.com/education/the-photographers-playbook</link>
+            <guid isPermaLink="false">faa33024-d3f6-4ca5-9a0a-1f362d5b82d9</guid>
+            <pubDate>Wed, 22 Jul 2015 23:20:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["You don't always need a plan. Sometimes you just need to breathe, trust, let go and see what happens." -unknown"You don't always need a plan. Sometimes you just need to breathe, trust, let go and see what happens." -unknown"You don't always need a plan. Sometimes you just need to breathe, trust, let go and see what happens." -unknown]]></title>
+            <description><![CDATA[<article><h1>"You don't always need a plan. Sometimes you just need to breathe, trust, let go and see what happens." -unknown"You don't always need a plan. Sometimes you just need to breathe, trust, let go and see what happens." -unknown"You don't always need a plan. Sometimes you just need to breathe, trust, let go and see what happens." -unknown</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69f8afb8-2317-4a1b-87f0-2d1c519ce111.jpg"></article>]]></description>
+            <link>http://myothercamera.is/you-dont-always-need-a-plan-sometimes-you-just-need-to-br/index.html</link>
+            <guid isPermaLink="false">4f7679e4-70ea-4fb3-ae68-ced19d89dc1c</guid>
+            <pubDate>Tue, 28 Jul 2015 03:46:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
