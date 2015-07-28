@@ -5,7 +5,7 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 23:59:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2015 23:59:47 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Moment telephoto lens gets you twice as close to the action with no distortion or degradation to the image. It’s perfect for street portraits, adventure photos and travel.]]></title>
@@ -20,13 +20,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/321c3fef-a49f-4ae2-a063-0ebadad0005d.JPG</link>
             <guid isPermaLink="false">a2f62438-9e8b-4e8d-b262-9aa3f572abcf</guid>
             <pubDate>Mon, 20 Jul 2015 08:01:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Photographers Playbook]]></title>
-            <description><![CDATA[<article><h1>The Photographers Playbook</h1><p>When you are a wedding or portrait photographer one issue that WILL happen is you are going to have ups and downs. When you are up you feel like a creative genius. When you are down you feel like maybe this is not the craft for you.</p></article>]]></description>
-            <link>http://www.theimagejournal.com/education/the-photographers-playbook</link>
-            <guid isPermaLink="false">faa33024-d3f6-4ca5-9a0a-1f362d5b82d9</guid>
-            <pubDate>Wed, 22 Jul 2015 23:20:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
