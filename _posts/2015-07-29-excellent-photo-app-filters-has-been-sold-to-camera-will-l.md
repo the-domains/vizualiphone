@@ -44,7 +44,7 @@ app_links: []
 isBasedOnUrl: 'http://thenextweb.com/insider/2015/07/28/excellent-photo-app-filters-has-been-sold-to-camera-will-live-on/'
 title: 'Excellent photo app Filters has been sold to Camera+, will live on!'
 datePublished: '2015-07-29T03:31:22.078Z'
-dateModified: '2015-07-29T05:50:46.345Z'
+dateModified: '2015-07-29T21:52:55.724Z'
 sourcePath: _posts/2015-07-29-excellent-photo-app-filters-has-been-sold-to-camera-will-l.md
 published: true
 _context: 'http://schema.org'
