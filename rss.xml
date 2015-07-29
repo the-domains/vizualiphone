@@ -3,10 +3,10 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jul 2015 03:31:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 29 Jul 2015 04:04:32 GMT</lastBuildDate>
+        <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Excellent photo app Filters has been sold to Camera+, will live on!]]></title>
             <description><![CDATA[<article><h1>Excellent photo app Filters has been sold to Camera+, will live on!</h1><p>Filters, the popular (and affordable) photo editing app for iOS, is now part of the Camera+ family. In a blog post on Medium, Filters developer Mike Rundle says the app will remain as a standalone in the App Store, and isn't being "acquired for parts and pieces."</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/Screen-Shot-2015-07-28-at-10.31.31-AM.png"></article>]]></description>
