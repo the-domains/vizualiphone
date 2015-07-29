@@ -3,16 +3,16 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://myothercamera.is/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jul 2015 00:50:48 GMT</lastBuildDate>
-        <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 29 Jul 2015 03:31:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Yellowstone Lake]]></title>
-            <description><![CDATA[<article><h1>Yellowstone Lake</h1><p>By the middle 19th century, the Oregon Trail, a pioneer trail of which a major portion followed the Snake River, had been established. Steamboats and railroads moved agricultural products and minerals along the river throughout the 19th and early 20th centuries. The powerful, steep flow of the Snake has been utilized since the 1890s to generate hydroelectricity, enhance navigation and provide irrigation water from fifteen major dams that have transformed the lower river into a series of reservoirs, several of which have been proposed for removal to restore some of the river's once-tremendous salmon runs.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/321c3fef-a49f-4ae2-a063-0ebadad0005d.JPG"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/321c3fef-a49f-4ae2-a063-0ebadad0005d.JPG</link>
-            <guid isPermaLink="false">a2f62438-9e8b-4e8d-b262-9aa3f572abcf</guid>
-            <pubDate>Mon, 20 Jul 2015 08:01:12 GMT</pubDate>
+            <title><![CDATA[Excellent photo app Filters has been sold to Camera+, will live on!]]></title>
+            <description><![CDATA[<article><h1>Excellent photo app Filters has been sold to Camera+, will live on!</h1><p>Filters, the popular (and affordable) photo editing app for iOS, is now part of the Camera+ family. In a blog post on Medium, Filters developer Mike Rundle says the app will remain as a standalone in the App Store, and isn't being "acquired for parts and pieces."</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/Screen-Shot-2015-07-28-at-10.31.31-AM.png"></article>]]></description>
+            <link>http://thenextweb.com/insider/2015/07/28/excellent-photo-app-filters-has-been-sold-to-camera-will-live-on/</link>
+            <guid isPermaLink="false">bfe25d51-869e-4921-b28c-db84353601d0</guid>
+            <pubDate>Wed, 29 Jul 2015 03:31:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
