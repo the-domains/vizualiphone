@@ -15,7 +15,7 @@ publisher:
   domain: www.visualroar.co
   url: null
   favicon: null
-dateModified: '2015-07-28T23:53:54.516Z'
+dateModified: '2015-07-28T23:59:58.809Z'
 sourcePath: _posts/2015-07-28-moment-telephoto-lens-gets-you-twice-as-close-to-the-action.md
 published: true
 _type: MediaObject
