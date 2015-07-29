@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Untitled RSS Feed]]></title>
+        <description><![CDATA[Untitled RSS Feed]]></description>
+        <link>http://myothercamera.is/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 29 Jul 2015 00:50:48 GMT</lastBuildDate>
+        <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yellowstone Lake]]></title>
+            <description><![CDATA[<article><h1>Yellowstone Lake</h1><p>By the middle 19th century, the Oregon Trail, a pioneer trail of which a major portion followed the Snake River, had been established. Steamboats and railroads moved agricultural products and minerals along the river throughout the 19th and early 20th centuries. The powerful, steep flow of the Snake has been utilized since the 1890s to generate hydroelectricity, enhance navigation and provide irrigation water from fifteen major dams that have transformed the lower river into a series of reservoirs, several of which have been proposed for removal to restore some of the river's once-tremendous salmon runs.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/321c3fef-a49f-4ae2-a063-0ebadad0005d.JPG"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/321c3fef-a49f-4ae2-a063-0ebadad0005d.JPG</link>
+            <guid isPermaLink="false">a2f62438-9e8b-4e8d-b262-9aa3f572abcf</guid>
+            <pubDate>Mon, 20 Jul 2015 08:01:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
