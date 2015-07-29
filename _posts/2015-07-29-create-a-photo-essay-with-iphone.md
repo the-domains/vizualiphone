@@ -15,7 +15,7 @@ publisher:
   domain: www.iphonephotolab.com
   url: null
   favicon: null
-dateModified: '2015-07-29T00:38:12.964Z'
+dateModified: '2015-07-29T00:48:37.461Z'
 sourcePath: _posts/2015-07-29-create-a-photo-essay-with-iphone.md
 published: true
 url: create-a-photo-essay-with-iphone/index.html
