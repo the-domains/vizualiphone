@@ -23,7 +23,7 @@ app_links: []
 isBasedOnUrl: 'http://www.enlightapp.com/blog/history-double-exposure-photo-contest-win-iphone-6/'
 title: 'All about Double Exposure | Enlight Blog'
 datePublished: '2015-07-31T16:33:48.485Z'
-dateModified: '2015-07-31T16:33:48.485Z'
+dateModified: '2015-07-31T16:47:49.327Z'
 sourcePath: _posts/2015-07-31-all-about-double-exposure-or-enlight-blog.md
 published: true
 _context: 'http://schema.org'
