@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 31 Jul 2015 00:50:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2015 04:34:02 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Double Exposure]]></title>
+            <description><![CDATA[<article><h1>Double Exposure</h1><p>Double exposure allows for deep, meaningful, and fascinating combinations. It’s evolved from accident to artform.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/715c1c94-569c-42cc-8dc9-a4a2db603e1b.jpg"></article>]]></description>
+            <link>http://myothercamera.is/the-artform-of-double-exposure/index.html</link>
+            <guid isPermaLink="false">347a7071-844c-4785-812a-2a10dc3de696</guid>
+            <pubDate>Fri, 31 Jul 2015 04:33:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shot on iPhone]]></title>
             <description><![CDATA[<article><h1>Shot on iPhone</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/482caa18-8dd6-494e-b7e6-1ae9d14e4a07.gif"></article>]]></description>
