@@ -15,7 +15,7 @@ publisher:
   domain: blog.spoongraphics.co.uk
   url: null
   favicon: null
-dateModified: '2015-07-31T09:12:34.242Z'
+dateModified: '2015-07-31T16:27:59.321Z'
 sourcePath: _posts/2015-07-31-how-to-create-a-double-exposure-effect-in-photoshop.md
 published: true
 url: how-to-create-a-double-exposure-effect-in-photoshop/index.html
