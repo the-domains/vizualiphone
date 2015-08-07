@@ -5,8 +5,15 @@
         <description><![CDATA[vizualiphone]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 07 Aug 2015 22:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2015 22:44:33 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shot on iPhone]]></title>
+            <description><![CDATA[<article><h1>Shot on iPhone</h1><p>This site is dedicated to all things iPhone all images and video was taken with an iPhone 6+. This site was also built on the iPhone 6+ with The Grid iOS app. The Grid has  literally created new programming language for layout design, a semantic syntax for pragmatic design of feed-based layouts.  </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/482caa18-8dd6-494e-b7e6-1ae9d14e4a07.gif"></article>]]></description>
+            <link>http://myothercamera.is/my-other-camera-is______/index.html</link>
+            <guid isPermaLink="false">7729de38-0b0c-4d70-b557-698b6adafc54</guid>
+            <pubDate>Fri, 07 Aug 2015 22:44:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Check out this story by jeffrey woods on @stellerstories]]></title>
             <description><![CDATA[<article><h1>Check out this story by jeffrey woods on @stellerstories</h1><p>JACKSON Arena of American Spirit ADVICE FROM A BUFFALO&#58; Stand your ground Have a tough hide Keep moving Have a strong spirit Roam WILD AND FREE TAKE RISKS "Do what you can, with what you have, where you are." ― Theodore Roosevelt DARING GREATLY "It is not the</p><img src="https://steller.co/stories/479798352708371572/cover?size=640x960"></article>]]></description>
@@ -41,13 +48,6 @@
             <link>http://myothercamera.is/the-artform-of-double-exposure/index.html</link>
             <guid isPermaLink="false">347a7071-844c-4785-812a-2a10dc3de696</guid>
             <pubDate>Fri, 31 Jul 2015 04:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shot on iPhone]]></title>
-            <description><![CDATA[<article><h1>Shot on iPhone</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/482caa18-8dd6-494e-b7e6-1ae9d14e4a07.gif"></article>]]></description>
-            <link>http://myothercamera.is/7729de38-0b0c-4d70-b557-698b6adafc54/index.html</link>
-            <guid isPermaLink="false">7729de38-0b0c-4d70-b557-698b6adafc54</guid>
-            <pubDate>Thu, 30 Jul 2015 21:19:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
