@@ -7,7 +7,7 @@ description: "This telephoto lens gets you twice as close to the action with no 
 author: []
 datePublished: '2015-08-13T22:06:30.188Z'
 title: ''
-dateModified: '2015-08-13T22:06:30.188Z'
+dateModified: '2015-08-13T22:42:07.059Z'
 tags:
   - ''
 authors: []
