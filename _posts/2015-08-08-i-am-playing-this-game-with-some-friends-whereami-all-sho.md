@@ -22,7 +22,7 @@ app_links:
 isBasedOnUrl: 'https://instagram.com/p/6Gu437IZNX/?taken-by=jeffrey_woods'
 title: "I am playing this game with some friends ‪#‎WhereAmI All shot from with iPhone6+ with either a 60mm @moment_lens and @olloclip macro and edited on the iPhone as well. All images are part of my weekly routine called ‪#‎walkabouts‬ which I post to my IG account every week. Why I made these images...I am focusing most of my photographic work these days to tourism companies for example @airbnb, wine and travel magazines. All images were taken where we call home these days Healdsburg,CA. If anyone is interested in the Moments Lens let me know I have a discount code. It's a really nice piece of glass and a lot of fun. My friends @garethpon and @colerise have inspired me a great deal with these lenses."
 datePublished: '2015-08-08T02:30:38.546Z'
-dateModified: '2015-08-08T02:30:38.546Z'
+dateModified: '2015-08-13T04:53:45.788Z'
 sourcePath: _posts/2015-08-08-i-am-playing-this-game-with-some-friends-whereami-all-sho.md
 published: true
 _type: Photograph
