@@ -5,7 +5,7 @@
         <description><![CDATA[vizualiphone]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 13 Aug 2015 22:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2015 22:14:22 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Shot on iPhone]]></title>
@@ -13,6 +13,13 @@
             <link>http://myothercamera.is/my-other-camera-is/index.html</link>
             <guid isPermaLink="false">7729de38-0b0c-4d70-b557-698b6adafc54</guid>
             <pubDate>Fri, 07 Aug 2015 22:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[White Sands, New Mexico by Shawna X]]></title>
+            <description><![CDATA[<article><h1>White Sands, New Mexico by Shawna X</h1><p>The 2015 Creative Cloud release includes features that allowed me to share work that I captured and created along the way.</p><img src="https://m2.behance.net/rendition/pm/27146683/max_1200/db5a85cef5e63fc072a349dfcb67cbb1.jpg"></article>]]></description>
+            <link>http://myothercamera.is/white-sands-new-mexico-by-shawna-x/index.html</link>
+            <guid isPermaLink="false">4367cb16-8480-42ba-8942-2f3ee7c87573</guid>
+            <pubDate>Thu, 13 Aug 2015 22:14:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Moment - World's Best Lenses for Mobile Photography]]></title>
@@ -69,13 +76,6 @@
             <link>http://myothercamera.is/how-to-create-a-double-exposure-effect-in-photoshop/index.html</link>
             <guid isPermaLink="false">bb7d0c30-e128-4698-80b5-8023c4d2867b</guid>
             <pubDate>Fri, 31 Jul 2015 06:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Double Exposure]]></title>
-            <description><![CDATA[<article><h1>Double Exposure</h1><p>Double exposure allows for deep, meaningful, and fascinating combinations. It’s evolved from accident to artform.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/715c1c94-569c-42cc-8dc9-a4a2db603e1b.jpg"></article>]]></description>
-            <link>http://myothercamera.is/the-artform-of-double-exposure/index.html</link>
-            <guid isPermaLink="false">347a7071-844c-4785-812a-2a10dc3de696</guid>
-            <pubDate>Fri, 31 Jul 2015 04:33:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
