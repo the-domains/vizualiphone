@@ -5,7 +5,7 @@
         <description><![CDATA[vizualiphone]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 14 Aug 2015 17:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2015 17:23:45 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Shot on iPhone]]></title>
@@ -13,6 +13,13 @@
             <link>http://myothercamera.is/my-other-camera-is/index.html</link>
             <guid isPermaLink="false">7729de38-0b0c-4d70-b557-698b6adafc54</guid>
             <pubDate>Fri, 07 Aug 2015 22:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Check out this story by jeffrey woods on @stellerstories]]></title>
+            <description><![CDATA[<article><h1>Check out this story by jeffrey woods on @stellerstories</h1><p>OF GIANTS AVENUE Wisdom begins in WONDER SOCRATES "If I have seen further than others, it is by standing upon the shoulders of giants ." ISAAC NEWTON It&#39;s not what you look at that matters, Its what you see. Soren Kierkegaard "Face the facts of</p><img src="https://steller.co/stories/485753664460293791/cover?size=640x960"></article>]]></description>
+            <link>https://steller.co/s/4JRPjABNCcK</link>
+            <guid isPermaLink="false">8795242c-5151-445c-b7fc-2c61950403a1</guid>
+            <pubDate>Fri, 14 Aug 2015 06:19:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Winners of the 2015 iPhone Photography Awards Announced]]></title>
@@ -69,13 +76,6 @@
             <link>http://www.enlightapp.com/blog/history-double-exposure-photo-contest-win-iphone-6/</link>
             <guid isPermaLink="false">308a82bb-20e6-4dea-8f16-aef0a44d9784</guid>
             <pubDate>Fri, 31 Jul 2015 16:33:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Create a Double Exposure Effect in Photoshop]]></title>
-            <description><![CDATA[<article><h1>How To Create a Double Exposure Effect in Photoshop</h1><p>The double exposure effect isn’t just popular with photographers, it’s a technique that artists and designers can use to create cool abstract artwork. You can see this effect used in the real world on album covers and even during opening titles of popular TV series. Today we’re going to focus on mimicking the traditional effect in Photoshop. It’s a relatively simple process but the final result mostly depends on a good match of two complementing photographs.</p><img src="http://blog.spoongraphics.co.uk/wp-content/uploads/2014/double-exposure/double-exposure-effect-sm.jpg"></article>]]></description>
-            <link>http://myothercamera.is/how-to-create-a-double-exposure-effect-in-photoshop/index.html</link>
-            <guid isPermaLink="false">bb7d0c30-e128-4698-80b5-8023c4d2867b</guid>
-            <pubDate>Fri, 31 Jul 2015 06:14:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
