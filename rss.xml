@@ -5,7 +5,7 @@
         <description><![CDATA[vizualiphone]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 14 Aug 2015 17:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2015 17:24:02 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Shot on iPhone]]></title>
@@ -13,6 +13,13 @@
             <link>http://myothercamera.is/my-other-camera-is/index.html</link>
             <guid isPermaLink="false">7729de38-0b0c-4d70-b557-698b6adafc54</guid>
             <pubDate>Fri, 07 Aug 2015 22:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This wireless camera lets you take better pictures with your phone or tablet]]></title>
+            <description><![CDATA[<article><h1>This wireless camera lets you take better pictures with your phone or tablet</h1><p>If you like taking pictures with your phone or tablet but wish it had a better camera, there are a few products that can help you. Things like Sony's Cyber-shot QX series or the DxO One give you better lenses and bigger sensors, and still let you shoot with your phone so you can quickly share the results.</p><img src="https://cdn0.vox-cdn.com/thumbor/IexjEkJg_Ct3sxW_I_vAllHcP5o=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3834048/olympus-air-9995.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2015/6/30/8867845/olympus-air-phone-tablet-camera</link>
+            <guid isPermaLink="false">f36a40a1-837e-4223-8b47-a9d85ce624ec</guid>
+            <pubDate>Fri, 14 Aug 2015 17:22:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Check out this story by jeffrey woods on @stellerstories]]></title>
@@ -69,13 +76,6 @@
             <link>https://instagram.com/p/57W06kIZEV/?taken-by=jeffrey_woods</link>
             <guid isPermaLink="false">a153a7b1-bfd5-418e-8137-3a0bc2a77ecc</guid>
             <pubDate>Mon, 03 Aug 2015 20:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All about Double Exposure | Enlight Blog]]></title>
-            <description><![CDATA[<article><h1>All about Double Exposure | Enlight Blog</h1><p>Learn the fascinating history of double exposure, then learn how to create your own in Enlight. - - - No one knows for sure who took the first photographic double exposure. What is almost certain is that this atmospheric, ghostly effect was just such an inspired accident.</p><img src="http://lh3.googleusercontent.com/6P51laYRaZVjJK-FaOjSUbL1IMEiDTiFj9y7CzQWsbKagw1YhqRpizoIJJhn3qtsEFoVD81siUkoHz1BO6JyuMU=s0"></article>]]></description>
-            <link>http://www.enlightapp.com/blog/history-double-exposure-photo-contest-win-iphone-6/</link>
-            <guid isPermaLink="false">308a82bb-20e6-4dea-8f16-aef0a44d9784</guid>
-            <pubDate>Fri, 31 Jul 2015 16:33:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
