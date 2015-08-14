@@ -26,7 +26,7 @@ app_links: []
 isBasedOnUrl: 'http://www.theverge.com/2015/6/30/8867845/olympus-air-phone-tablet-camera'
 title: This wireless camera lets you take better pictures with your phone or tablet
 datePublished: '2015-08-14T17:22:54.538Z'
-dateModified: '2015-08-14T17:58:21.446Z'
+dateModified: '2015-08-14T22:56:33.051Z'
 sourcePath: _posts/2015-08-14-this-wireless-camera-lets-you-take-better-pictures-with-your.md
 published: true
 _context: 'http://schema.org'
