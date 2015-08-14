@@ -7,7 +7,7 @@ description: ''
 author: []
 datePublished: '2015-08-14T17:22:54.154Z'
 title: Winners of the 2015 iPhone Photography Awards Announced
-dateModified: '2015-08-14T17:22:54.154Z'
+dateModified: '2015-08-14T17:58:21.831Z'
 tags:
   - ''
 authors: []
