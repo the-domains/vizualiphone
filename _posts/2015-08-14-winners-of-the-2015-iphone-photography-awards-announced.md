@@ -1,21 +1,21 @@
 ---
 isBasedOnUrl: 'http://www.ippawards.com/2015-iphone-photography-awards-winners-announced/'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
 author: []
 datePublished: '2015-08-14T17:22:54.154Z'
 title: Winners of the 2015 iPhone Photography Awards Announced
-dateModified: '2015-08-14T17:58:21.831Z'
+dateModified: '2015-08-14T22:56:32.783Z'
 tags:
   - ''
 authors: []
 publisher:
+  favicon: null
   name: ippawards.com
   domain: www.ippawards.com
   url: null
-  favicon: null
 sourcePath: _posts/2015-08-14-winners-of-the-2015-iphone-photography-awards-announced.md
 published: true
 url: winners-of-the-2015-iphone-photography-awards-announced/index.html
