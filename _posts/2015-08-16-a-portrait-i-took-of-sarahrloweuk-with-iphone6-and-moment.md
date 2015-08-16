@@ -22,7 +22,7 @@ app_links:
 isBasedOnUrl: 'https://instagram.com/p/6bkmMCoZFP/'
 title: 'A portrait I took of @sarahrloweuk with #iPhone6 and @moment_lens #mobileedit with @priime'
 datePublished: '2015-08-16T19:00:36.246Z'
-dateModified: '2015-08-16T19:00:36.246Z'
+dateModified: '2015-08-16T19:05:49.665Z'
 sourcePath: _posts/2015-08-16-a-portrait-i-took-of-sarahrloweuk-with-iphone6-and-moment.md
 published: true
 _type: Photograph
