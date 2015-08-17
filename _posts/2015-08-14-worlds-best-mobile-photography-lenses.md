@@ -7,7 +7,7 @@ description: "We were tired of carrying our traditional camera equipment, but in
 author: []
 datePublished: '2015-08-14T17:22:54.156Z'
 title: WORLD’S BEST MOBILE PHOTOGRAPHY LENSES
-dateModified: '2015-08-14T22:56:33.037Z'
+dateModified: '2015-08-17T06:44:08.106Z'
 tags:
   - ''
 authors: []
