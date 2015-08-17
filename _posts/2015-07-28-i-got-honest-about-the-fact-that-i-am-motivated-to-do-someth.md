@@ -9,7 +9,7 @@ datePublished: '2015-07-28T03:37:05.514Z'
 title: I got honest about the fact that I am motivated to do something only when the cost of not doing it outweighs the pain of doing it.
 tags:
   - ''
-dateModified: '2015-08-17T08:52:20.883Z'
+dateModified: '2015-08-17T19:22:18.873Z'
 sourcePath: _posts/2015-07-28-i-got-honest-about-the-fact-that-i-am-motivated-to-do-someth.md
 published: true
 authors: []
