@@ -20,7 +20,7 @@ app_links:
     package: com.instagram.android
 title: 'I am playing this game with some friends ‪#‎WhereAmI All shot with iPhone6+ with either a 60mm @moment_lens and @olloclip macro and edited on the iPhone as well. All images are part of my weekly routine called ‪#‎walkabouts‬ which I post to my IG account'
 datePublished: '2015-08-17T21:56:27.887Z'
-dateModified: '2015-08-18T01:50:29.404Z'
+dateModified: '2015-08-18T01:53:14.617Z'
 sourcePath: _posts/2015-08-17-i-am-playing-this-game-with-some-friends-whereami-all-sho.md
 published: true
 tags:
@@ -31,7 +31,8 @@ publisher:
   domain: instagram.com
   url: 'https://instagram.com/'
   favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/dd10ec5/images/ico/favicon.ico'
-_type: Photograph
+url: i-am-playing-this-game-with-some-friends-whereami-all-sho/index.html
+_type: Article
 _context: 'http://schema.org'
 
 ---
