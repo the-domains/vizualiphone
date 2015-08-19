@@ -22,7 +22,7 @@ app_links:
 isBasedOnUrl: 'https://instagram.com/p/yx5QFmoZCd/'
 title: '"The only thing I am worried about is the direction of the wind" -random Hawaii surfer dude #islandlife #Volkswagon #hawaii #surf'
 datePublished: '2015-08-17T19:22:18.601Z'
-dateModified: '2015-08-17T19:22:18.601Z'
+dateModified: '2015-08-19T03:15:09.210Z'
 sourcePath: _posts/2015-08-17-the-only-thing-i-am-worried-about-is-the-direction-of-the-w.md
 published: true
 _type: Photograph
