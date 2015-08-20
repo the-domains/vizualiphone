@@ -1,7 +1,7 @@
 ---
 isBasedOnUrl: 'https://instagram.com/p/6Gu437IZNX/'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
 author:
@@ -19,18 +19,18 @@ app_links:
     app_name: Instagram
     package: com.instagram.android
 title: FOLLOW ME ON INSTAGRAM
-datePublished: '2015-08-19T03:17:40.655Z'
-dateModified: '2015-08-20T03:37:20.136Z'
+datePublished: '2015-08-20T19:04:34.612Z'
+dateModified: '2015-08-20T19:04:34.612Z'
 tags:
   - ''
+sourcePath: _posts/2015-08-19-follow-me-on-instagram.md
+published: true
 authors: []
 publisher:
   name: Instagram
   domain: instagram.com
   url: 'https://instagram.com/'
   favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/dd10ec5/images/ico/favicon.ico'
-sourcePath: _posts/2015-08-19-follow-me-on-instagram.md
-published: true
 _type: Photograph
 _context: 'http://schema.org'
 
