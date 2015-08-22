@@ -3,11 +3,11 @@ isBasedOnUrl: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/42c4f1d7
 inLanguage: null
 starred: true
 keywords: []
-description: 'Twenty years of experience as parents, entrepreneurs, artists, educators, and creative thinkers, We have learned the hard way that life without a vision will end in the death of spirit, passion and curiosity.  This year we will be offering new ways to fire up your creative spirit.'
+description: 'Twenty years of experience as parents, entrepreneurs, artists, educators, and creative thinkers, We have learned the hard way that life without a vision will end in the death of spirit, passion and curiosity.  This year we will be offering new ways to fire up your creative spirit. https://twitter.com/JefnJul'
 author: []
 datePublished: '2015-08-22T22:42:14.527Z'
 title: Jeffrey and Julia Woods
-dateModified: '2015-08-22T22:46:16.566Z'
+dateModified: '2015-08-22T22:53:49.658Z'
 tags:
   - 'https://twitter.com/JefnJul'
 sourcePath: _posts/2015-08-22-jeffrey-and-julia-woods.md
