@@ -7,7 +7,7 @@ description: 'Twenty years of experience as parents, entrepreneurs, artists, edu
 author: []
 datePublished: '2015-08-22T23:56:08.893Z'
 title: Jeffrey + Julia Woods
-dateModified: '2015-08-22T23:56:08.893Z'
+dateModified: '2015-08-22T23:58:24.266Z'
 tags:
   - ''
 authors: []
