@@ -7,17 +7,17 @@ description: 'Twenty years of experience as parents, entrepreneurs, artists, edu
 author: []
 datePublished: '2015-08-22T22:42:14.527Z'
 title: Jeffrey and Julia Woods
-dateModified: '2015-08-22T22:42:14.527Z'
+dateModified: '2015-08-22T22:46:16.566Z'
 tags:
-  - ''
+  - 'https://twitter.com/JefnJul'
+sourcePath: _posts/2015-08-22-jeffrey-and-julia-woods.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-08-22-jeffrey-and-julia-woods.md
-published: true
 url: jeffrey-and-julia-woods/index.html
 _type: Article
 _context: 'http://schema.org'
