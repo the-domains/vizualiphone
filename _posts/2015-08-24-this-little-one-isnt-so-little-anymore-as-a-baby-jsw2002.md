@@ -20,7 +20,7 @@ app_links:
     package: com.instagram.android
 title: "This little one isn't so little anymore. "
 datePublished: '2015-08-24T17:58:04.347Z'
-dateModified: '2015-08-24T18:04:14.890Z'
+dateModified: '2015-08-24T18:18:10.586Z'
 sourcePath: _posts/2015-08-24-this-little-one-isnt-so-little-anymore-as-a-baby-jsw2002.md
 published: true
 tags:
