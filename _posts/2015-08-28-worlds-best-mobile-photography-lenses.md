@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: "We were tired of carrying our traditional camera equipment, but in using our phones we were unable to get the shots we wanted...we were missing moments. So we set out to make the phone a better camera with the world's best glass. http://momentlens.co/"
 author: []
-datePublished: '2015-08-28T16:20:37.488Z'
+datePublished: '2015-09-01T00:24:34.030Z'
 title: WORLD’S BEST MOBILE PHOTOGRAPHY LENSES
-dateModified: '2015-08-28T16:20:19.591Z'
+dateModified: '2015-08-28T16:20:37.488Z'
 tags:
   - ''
 sourcePath: _posts/2015-08-28-worlds-best-mobile-photography-lenses.md
