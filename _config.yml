@@ -34,11 +34,10 @@ color:
   brandStrength: 0
   lightness: 0.8415682
   brandColors:
-    - '#F52032'
-    - '#7CD8EE'
-    - '#B8CDD2'
-    - '#ED97A1'
-    - '#FF495D'
+    - '#A4904B'
+    - '#C7E8FB'
+    - '#5C4B27'
+    - '#ACAB9A'
   rhythmicContrast: 0.25
 typography_spectrum: 0.5590762
 layout_spectrum: 0.40247
