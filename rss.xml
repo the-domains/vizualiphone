@@ -5,7 +5,7 @@
         <description><![CDATA[vizualiphone]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Sep 2015 00:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2015 00:35:22 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jeffrey and Julila Woods]]></title>
@@ -13,6 +13,13 @@
             <link>http://myothercamera.is/jeffrey-and-julia-woods/index.html</link>
             <guid isPermaLink="false">f5105549-6968-475d-aa8e-532fec3d37b8</guid>
             <pubDate>Fri, 28 Aug 2015 15:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Office view today while @jsiwoo @sethlowephoto and I are filmmaking for @foundrmagazine]]></title>
+            <description><![CDATA[<article><h1>Office view today while @jsiwoo @sethlowephoto and I are filmmaking for @foundrmagazine</h1><img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/11376581_601620839980240_1741283531_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/4h80dqoZBa/</link>
+            <guid isPermaLink="false">13a6b72c-fbb2-4e96-a976-f86628d7dc82</guid>
+            <pubDate>Fri, 25 Sep 2015 00:34:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Just get out there and create! #Circles2015]]></title>
@@ -69,13 +76,6 @@
             <link>http://myothercamera.is/winners-of-the-2015-iphone-photography-awards-announced/index.html</link>
             <guid isPermaLink="false">2ce2b87b-2342-40cc-b1b4-ef186bb879eb</guid>
             <pubDate>Fri, 14 Aug 2015 17:22:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shot on iPhone]]></title>
-            <description><![CDATA[<article><h1>Shot on iPhone</h1><p>This site is dedicated to all things iPhone all images and video was taken with an iPhone 6+. This site was published and built on the iPhone 6+ using The Grid iOS app. The Grid has created new programming language for layout design harnessing the power of A.I. for a pragmatic design of feed-based layouts.  </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/482caa18-8dd6-494e-b7e6-1ae9d14e4a07.gif"></article>]]></description>
-            <link>http://myothercamera.is/my-other-camera-is/index.html</link>
-            <guid isPermaLink="false">7729de38-0b0c-4d70-b557-698b6adafc54</guid>
-            <pubDate>Fri, 07 Aug 2015 22:44:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
