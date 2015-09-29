@@ -5,7 +5,7 @@
         <description><![CDATA[myothercamera.is]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Sep 2015 19:32:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2015 19:33:02 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jeffrey and Julila Woods]]></title>
@@ -13,6 +13,13 @@
             <link>http://myothercamera.is/jeffrey-and-julia-woods/index.html</link>
             <guid isPermaLink="false">f5105549-6968-475d-aa8e-532fec3d37b8</guid>
             <pubDate>Fri, 28 Aug 2015 15:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Since I'am inarticulate, I express myself with images. -Helen Levitt]]></title>
+            <description><![CDATA[<article><h1>Since I'am inarticulate, I express myself with images. -Helen Levitt</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9749190f-8d29-4c32-a79d-23dda300e154.png"></article>]]></description>
+            <link>http://myothercamera.is/since-iam-inarticulate-i-express-myself-with-images-hele/index.html</link>
+            <guid isPermaLink="false">d62beb25-2d80-4f32-bcdc-46e0c71d35f0</guid>
+            <pubDate>Tue, 29 Sep 2015 19:32:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Exploring for me is a big part of my everyday life.  You have to prioritize time for yourself as a creative. You have to dip your toe in the cold water. Meaning, take on some new ways to create.]]></title>
@@ -69,13 +76,6 @@
             <link>https://instagram.com/p/6bkmMCoZFP/</link>
             <guid isPermaLink="false">c1fcdc1e-1408-4658-acd6-6a62c9c9b3b5</guid>
             <pubDate>Mon, 17 Aug 2015 07:41:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Art is a harmony parallel with nature.]]></title>
-            <description><![CDATA[<article><h1>Art is a harmony parallel with nature.</h1><p>― Paul Cézanne</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b44061c4-5da4-4701-aa38-816b95035acb.jpg"></article>]]></description>
-            <link>http://myothercamera.is/art-is-a-harmony-parallel-with-nature/index.html</link>
-            <guid isPermaLink="false">3559414e-6670-465b-8ce3-80e2dfe73ed5</guid>
-            <pubDate>Wed, 22 Jul 2015 04:41:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
