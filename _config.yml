@@ -1,7 +1,9 @@
-name: myothercamera.is
 favicon: null
-layout_spectrum: 0.44872
-typography_spectrum: 0.30869
+name: myothercamera.is
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - filter:
       notType:
@@ -26,27 +28,25 @@ collections:
     permalink:
       path: '/:title/'
       navigable: true
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 color:
+  saturation: 0.375
+  brandStrength: 0
+  rhythmicContrast: 0.25
   brandColors:
     - '#F52032'
     - '#7CD8EE'
     - '#B8CDD2'
     - '#ED97A1'
     - '#FF495D'
-  brandStrength: 0
   lightness: 0.9479054
-  saturation: 0.375
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.3088077
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.44872
+analytics:
+  twitter: null
+  google: null
+  facebook: null
