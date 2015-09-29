@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[vizualiphone]]></title>
-        <description><![CDATA[vizualiphone]]></description>
+        <title><![CDATA[myothercamera.is]]></title>
+        <description><![CDATA[myothercamera.is]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Sep 2015 00:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2015 19:32:37 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jeffrey and Julila Woods]]></title>
@@ -13,6 +13,13 @@
             <link>http://myothercamera.is/jeffrey-and-julia-woods/index.html</link>
             <guid isPermaLink="false">f5105549-6968-475d-aa8e-532fec3d37b8</guid>
             <pubDate>Fri, 28 Aug 2015 15:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exploring for me is a big part of my everyday life.  You have to prioritize time for yourself as a creative. You have to dip your toe in the cold water. Meaning, take on some new ways to create.]]></title>
+            <description><![CDATA[<article><h1>Exploring for me is a big part of my everyday life.  You have to prioritize time for yourself as a creative. You have to dip your toe in the cold water. Meaning, take on some new ways to create.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4767461-9feb-4b98-88dc-3f4d17ec4788.jpg"></article>]]></description>
+            <link>http://myothercamera.is/exploring-for-me-is-a-big-part-of-my-everyday-life-you-hav/index.html</link>
+            <guid isPermaLink="false">4d1fac74-e19a-4931-b6d3-5ccd777b6c88</guid>
+            <pubDate>Tue, 29 Sep 2015 19:32:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Office view today while @jsiwoo @sethlowephoto and I are filmmaking for @foundrmagazine]]></title>
@@ -69,13 +76,6 @@
             <link>http://myothercamera.is/art-is-a-harmony-parallel-with-nature/index.html</link>
             <guid isPermaLink="false">3559414e-6670-465b-8ce3-80e2dfe73ed5</guid>
             <pubDate>Wed, 22 Jul 2015 04:41:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Winners of the 2015 iPhone Photography Awards Announced]]></title>
-            <description><![CDATA[<article><h1>Winners of the 2015 iPhone Photography Awards Announced</h1><img src="http://ippcdn.ippawards.netdna-cdn.com/wp-content/uploads/2015/04/33950_21725-3662_1_1_5_MichalKoralewski01-people.jpg"></article>]]></description>
-            <link>http://myothercamera.is/winners-of-the-2015-iphone-photography-awards-announced/index.html</link>
-            <guid isPermaLink="false">2ce2b87b-2342-40cc-b1b4-ef186bb879eb</guid>
-            <pubDate>Fri, 14 Aug 2015 17:22:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
