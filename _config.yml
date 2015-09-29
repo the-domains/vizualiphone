@@ -1,7 +1,7 @@
 name: myothercamera.is
 favicon: null
 layout_spectrum: 0.44872
-typography_spectrum: 0.7588615
+typography_spectrum: 0.30869
 collections:
   - filter:
       notType:
