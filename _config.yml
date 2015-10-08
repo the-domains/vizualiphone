@@ -40,7 +40,7 @@ color:
     - '#ED97A1'
     - '#FF495D'
   lightness: 0.9479054
-typography_spectrum: 0.3088077
+typography_spectrum: 1
 cta:
   bucket: null
   version: null
