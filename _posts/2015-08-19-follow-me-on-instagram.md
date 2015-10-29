@@ -1,9 +1,14 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'https://instagram.com/p/6Gu437IZNX/'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
+datePublished: '2015-10-29T20:59:04.489Z'
+dateModified: '2015-10-29T20:59:02.087Z'
 author:
   - name: jeffrey_woods
     url: 'https://instagram.com/jeffrey_woods'
@@ -19,8 +24,6 @@ app_links:
     app_name: Instagram
     package: com.instagram.android
 title: FOLLOW ME ON INSTAGRAM
-datePublished: '2015-08-20T19:04:34.612Z'
-dateModified: '2015-08-24T14:39:53.340Z'
 tags:
   - ''
 sourcePath: _posts/2015-08-19-follow-me-on-instagram.md
@@ -35,4 +38,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![I am playing this game with some friends ‪&num;‎WhereAmI All shot with iPhone6&plus; with either a 60mm &commat;moment&lowbar;lens and &commat;olloclip macro and edited on the iPhone as well&period; All images are part of my weekly routine called ‪&num;‎walkabouts‬ which I post to my IG account every week&period; Why I made these images&period;&period;&period;I am focusing most of my photographic work these days to tourism companies for example &commat;airbnb&comma; wine and travel magazines&period; All images were taken where we call home these days Healdsburg&comma;CA&period; If anyone is interested in the Moments Lens let me know I have a discount code&period; It's a really nice piece of glass and a lot of fun&period; My friends &commat;garethpon and &commat;colerise have inspired me a great deal with these lenses&period;](https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/1389282_1462989447337643_491732110_n.jpg)
+![I am playing this game with some friends ‪#‎WhereAmI All shot with iPhone6+ with either a 60mm @moment_lens and @olloclip macro and edited on the iPhone as well. All images are part of my weekly routine called ‪#‎walkabouts‬ which I post to my IG account every week. Why I made these images...I am focusing most of my photographic work these days to tourism companies for example @airbnb, wine and travel magazines. All images were taken where we call home these days Healdsburg,CA. If anyone is interested in the Moments Lens let me know I have a discount code. It's a really nice piece of glass and a lot of fun. My friends @garethpon and @colerise have inspired me a great deal with these lenses.](https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/1389282_1462989447337643_491732110_n.jpg)
