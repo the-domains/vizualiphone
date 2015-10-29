@@ -4,7 +4,7 @@
         <description><![CDATA[myothercamera.is]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Oct 2015 21:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2015 21:03:13 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jeffrey and Julia Woods]]></title>
@@ -12,13 +12,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5e866dc-ff54-49e7-a747-ed4ed061673e.jpg</link>
             <guid isPermaLink="false">f5105549-6968-475d-aa8e-532fec3d37b8</guid>
             <pubDate>Thu, 29 Oct 2015 20:58:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The best camera is the one that is always with you.]]></title>
-            <description><![CDATA[<article><h1>The best camera is the one that is always with you.</h1><p>I love my iPhone; it's great to have a camera around all the time. Many times I can forget something like a quote or something that might inspire me. Having the iPhone allows me to keep that inspired thought.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad821585-6fce-469b-9af0-8cd05e60b581.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad821585-6fce-469b-9af0-8cd05e60b581.jpg</link>
-            <guid isPermaLink="false">c583321a-3bc1-4d5b-a468-dfce166f4fcd</guid>
-            <pubDate>Thu, 29 Oct 2015 21:01:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Art is a harmony parallel with nature.]]></title>
@@ -75,6 +68,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/23c93326-15ee-47c8-9a92-63aca87eebcc.png</link>
             <guid isPermaLink="false">df2f4335-dfca-492b-829a-f9f64d56c266</guid>
             <pubDate>Thu, 29 Oct 2015 20:36:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cc182c7-b6dd-4c4f-93c3-29a1d4958b5f.png" alt="" title="">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cc182c7-b6dd-4c4f-93c3-29a1d4958b5f.png</link>
+            <guid isPermaLink="false">0578b086-da1a-4885-b785-11e212833e9d</guid>
+            <pubDate>Thu, 29 Oct 2015 20:37:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
