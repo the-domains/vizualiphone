@@ -17,8 +17,8 @@ keywords:
   - video
   - images
 description: 'OF GIANTS AVENUE Wisdom begins in WONDER SOCRATES "If I have seen further than others, it is by standing upon the shoulders of giants ." ISAAC NEWTON It&#39;s not what you look at that matters, Its what you see. Soren Kierkegaard "Face the facts of'
-datePublished: '2015-10-29T20:59:25.053Z'
-dateModified: '2015-10-29T20:59:22.787Z'
+datePublished: '2015-10-29T21:16:58.534Z'
+dateModified: '2015-10-29T21:16:53.852Z'
 author: []
 related: []
 app_links: []
