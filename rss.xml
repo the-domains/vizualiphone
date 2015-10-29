@@ -4,7 +4,7 @@
         <description><![CDATA[myothercamera.is]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Oct 2015 21:01:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2015 21:02:22 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jeffrey and Julia Woods]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5e866dc-ff54-49e7-a747-ed4ed061673e.jpg</link>
             <guid isPermaLink="false">f5105549-6968-475d-aa8e-532fec3d37b8</guid>
             <pubDate>Thu, 29 Oct 2015 20:58:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Artform of Double Exposure]]></title>
+            <description><![CDATA[<article><h1>The Artform of Double Exposure</h1><p>Double exposure allows for deep, meaningful, and fascinating combinations. It’s evolved from accident to artform.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/715c1c94-569c-42cc-8dc9-a4a2db603e1b.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/715c1c94-569c-42cc-8dc9-a4a2db603e1b.jpg</link>
+            <guid isPermaLink="false">347a7071-844c-4785-812a-2a10dc3de696</guid>
+            <pubDate>Thu, 29 Oct 2015 21:01:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Check out this story by jeffrey woods on @stellerstories]]></title>
@@ -67,14 +74,7 @@
             <description><![CDATA[<article><h1>Do good. Do it well. Do it together. - @chrismarlow #tribeconf #helponenow @helponenow</h1><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e35/11917804_827999817313236_1494258693_n.jpg"></article>]]></description>
             <link>https://instagram.com/p/7JibLFoZDQ/</link>
             <guid isPermaLink="false">38652c33-5be0-4a14-8c80-6410dfebafb1</guid>
-            <pubDate>Thu, 29 Oct 2015 20:57:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This little one isn't so little anymore. ]]></title>
-            <description><![CDATA[<article><h1>This little one isn't so little anymore. </h1><p>This little one isn't so little anymore. As a baby @jsw2002 we would call her tulip...not sure why. But when I look at tulips I smile. Maybe it's because living in the Midwest signs of tulips mean new life is about to begin. Sophie has a personality that makes me and Julia smile. I really hate seeing her get older I must admit.</p><img src="https://igcdn-photos-h-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/e35/11375742_505509072948503_262272192_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/6xjrdLoZJk/</link>
-            <guid isPermaLink="false">9309c77a-a410-4935-9179-44b7df9e2c4b</guid>
-            <pubDate>Thu, 29 Oct 2015 20:57:20 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2015 21:00:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
