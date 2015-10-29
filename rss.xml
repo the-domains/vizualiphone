@@ -4,7 +4,7 @@
         <description><![CDATA[myothercamera.is]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Oct 2015 21:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2015 21:20:33 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My Other Camera Is]]></title>
@@ -36,10 +36,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c380a58-9f32-41e2-83cf-dfb60e39c4df.jpg">]]></description>
-            <link>http://myothercamera.is/0636c22e-cb51-4e24-bb11-d65b835bc32e/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c380a58-9f32-41e2-83cf-dfb60e39c4df.jpg" alt="" title="">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c380a58-9f32-41e2-83cf-dfb60e39c4df.jpg</link>
             <guid isPermaLink="false">0636c22e-cb51-4e24-bb11-d65b835bc32e</guid>
-            <pubDate>Thu, 29 Oct 2015 21:11:37 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2015 21:19:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apple - iPhone 6 World Gallery]]></title>
