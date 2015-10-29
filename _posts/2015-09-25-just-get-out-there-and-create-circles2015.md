@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-29T20:38:11.170Z'
-dateModified: '2015-10-29T20:38:06.995Z'
+datePublished: '2015-10-29T20:38:31.194Z'
+dateModified: '2015-10-29T20:38:27.576Z'
 author:
   - name: jeffrey_woods
     url: 'https://instagram.com/jeffrey_woods'
@@ -23,7 +23,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: 'Just get out there and create! #Circles2015'
+title: 'Just get out there and create! '
 sourcePath: _posts/2015-09-25-just-get-out-there-and-create-circles2015.md
 published: true
 authors: []
