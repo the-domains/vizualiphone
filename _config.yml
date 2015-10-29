@@ -1,6 +1,6 @@
 name: myothercamera.is
 favicon: null
-layout_spectrum: 0.25847
+layout_spectrum: 0.07992
 typography_spectrum: 1
 collections:
   - filter:
@@ -45,7 +45,7 @@ color:
     - '#B8CDD2'
     - '#ED97A1'
     - '#FF495D'
-  brandStrength: 0
+  brandStrength: 0.4375
   lightness: 0.9479054
   saturation: 0.375
   rhythmicContrast: 0.25
