@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[myothercamera.is]]></title>
         <description><![CDATA[myothercamera.is]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 05 Oct 2015 22:52:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2015 20:33:50 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jeffrey and Julia Woods]]></title>
@@ -13,6 +12,27 @@
             <link>http://myothercamera.is/jeffrey-and-julia-woods/index.html</link>
             <guid isPermaLink="false">f5105549-6968-475d-aa8e-532fec3d37b8</guid>
             <pubDate>Fri, 28 Aug 2015 15:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A beautiful designed place could always use a coffee truck stocked with @intelligentsiacoffee #photoexpo2015]]></title>
+            <description><![CDATA[<article><h1>A beautiful designed place could always use a coffee truck stocked with @intelligentsiacoffee #photoexpo2015</h1><img src="https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/sh0.08/e35/p640x640/12120435_892797557470067_249116523_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/9Hf3FSoZDq/</link>
+            <guid isPermaLink="false">5310f7db-78c3-4bc4-9735-cbba7684b0d5</guid>
+            <pubDate>Thu, 29 Oct 2015 20:33:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23c93326-15ee-47c8-9a92-63aca87eebcc.png">]]></description>
+            <link>http://myothercamera.is/df2f4335-dfca-492b-829a-f9f64d56c266/index.html</link>
+            <guid isPermaLink="false">df2f4335-dfca-492b-829a-f9f64d56c266</guid>
+            <pubDate>Thu, 08 Oct 2015 19:18:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cc182c7-b6dd-4c4f-93c3-29a1d4958b5f.png">]]></description>
+            <link>http://myothercamera.is/0578b086-da1a-4885-b785-11e212833e9d/index.html</link>
+            <guid isPermaLink="false">0578b086-da1a-4885-b785-11e212833e9d</guid>
+            <pubDate>Thu, 08 Oct 2015 19:18:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Since I'am inarticulate, I express myself with images. -Helen Levitt]]></title>
@@ -55,20 +75,6 @@
             <link>https://instagram.com/p/6xjrdLoZJk/</link>
             <guid isPermaLink="false">9309c77a-a410-4935-9179-44b7df9e2c4b</guid>
             <pubDate>Fri, 28 Aug 2015 15:27:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FOLLOW ME ON INSTAGRAM]]></title>
-            <description><![CDATA[<article><h1>FOLLOW ME ON INSTAGRAM</h1><p>I am playing this game with some friends ‪#‎WhereAmI All shot with iPhone6+ with either a 60mm @moment_lens and @olloclip macro and edited on the iPhone as well. All images are part of my weekly routine called ‪#‎walkabouts‬ which I post to my IG account every week. Why I made these images...I am focusing most of my photographic work these days to tourism companies for example @airbnb, wine and travel magazines. All images were taken where we call home these days Healdsburg,CA. If anyone is interested in the Moments Lens let me know I have a discount code. It's a really nice piece of glass and a lot of fun. My friends @garethpon and @colerise have inspired me a great deal with these lenses.</p><img src="https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/1389282_1462989447337643_491732110_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/6Gu437IZNX/</link>
-            <guid isPermaLink="false">deaf5538-2205-4eb5-aeee-0a85e70901e9</guid>
-            <pubDate>Thu, 20 Aug 2015 19:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A portrait I took of @sarahrloweuk with #iPhone6 and @moment_lens #mobileedit with @priime]]></title>
-            <description><![CDATA[<article><h1>A portrait I took of @sarahrloweuk with #iPhone6 and @moment_lens #mobileedit with @priime</h1><img src="https://igcdn-photos-c-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11856622_757416891050570_831527902_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/6bkmMCoZFP/</link>
-            <guid isPermaLink="false">c1fcdc1e-1408-4658-acd6-6a62c9c9b3b5</guid>
-            <pubDate>Mon, 17 Aug 2015 07:41:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
