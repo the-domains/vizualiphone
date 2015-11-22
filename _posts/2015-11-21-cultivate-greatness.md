@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-22T00:05:06.144Z'
-dateModified: '2015-11-22T00:05:01.826Z'
+datePublished: '2015-11-22T00:09:22.311Z'
+dateModified: '2015-11-22T00:09:19.223Z'
 title: Cultivate Greatness
 author: []
 sourcePath: _posts/2015-11-21-cultivate-greatness.md
