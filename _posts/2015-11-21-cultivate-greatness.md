@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-22T00:09:22.311Z'
-dateModified: '2015-11-22T00:09:19.223Z'
+datePublished: '2015-11-22T00:19:49.314Z'
+dateModified: '2015-11-22T00:19:45.368Z'
 title: Cultivate Greatness
 author: []
 sourcePath: _posts/2015-11-21-cultivate-greatness.md
