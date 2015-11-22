@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-21T20:10:55.554Z'
-dateModified: '2015-11-21T20:10:51.176Z'
+datePublished: '2015-11-22T00:05:06.144Z'
+dateModified: '2015-11-22T00:05:01.826Z'
 title: Cultivate Greatness
 author: []
 sourcePath: _posts/2015-11-21-cultivate-greatness.md
@@ -23,6 +23,8 @@ _type: Article
 
 ---
 ![Cultivate Greatness](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2973240-f550-4ef4-ae01-fd46262fb717.jpg)
+
+# Cultivate Greatness
 
 Some of the most impactful moments in life can come from sacrifice by taking time away from work, family, and the typical to gain a new perspective and consider what could be possible if we allowed ourselves to grow.  This week, I had the privilege of coming alongside 30 women on a quest for their beautiful outcome at two Beautiful Outcome workshops in Tulsa, Oklahoma.  I experienced many gifts through my different emotions as I observed, shared, and experienced these ladies' ups and downs through their growth processes. 
 
