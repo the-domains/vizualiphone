@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-29T20:35:47.116Z'
-dateModified: '2015-10-29T20:35:43.264Z'
+datePublished: '2015-12-24T08:50:10.423Z'
+dateModified: '2015-12-24T08:50:07.086Z'
 author:
   - name: jeffrey_woods
     url: 'https://instagram.com/jeffrey_woods'
@@ -36,4 +36,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![A beautiful designed place could always use a coffee truck stocked with @intelligentsiacoffee #photoexpo2015](https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/sh0.08/e35/p640x640/12120435_892797557470067_249116523_n.jpg)
+![A beautiful designed place could always use a coffee truck stocked with @intelligentsiacoffee #photoexpo2015](https://s3-us-west-2.amazonaws.com/the-grid-img/p/26aceb811e61315182afca50d7fd2a6ebb23e706.jpg)
