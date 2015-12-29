@@ -4,7 +4,7 @@
         <description><![CDATA[myothercamera.is]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 07:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 07:20:39 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My Other Camera Is]]></title>
@@ -19,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5e866dc-ff54-49e7-a747-ed4ed061673e.jpg</link>
             <guid isPermaLink="false">f5105549-6968-475d-aa8e-532fec3d37b8</guid>
             <pubDate>Thu, 24 Dec 2015 08:51:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Came upon this cute little coffee house...pretty legit actually. This W kid decided to pose for me.]]></title>
+            <description><![CDATA[<article><h1>Came upon this cute little coffee house...pretty legit actually. This W kid decided to pose for me.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a42af3a8098ab4dc7631d3ba2294f7178e9d15d9.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/7Td9YRoZKG/?taken-by=jeffrey_woods</link>
+            <guid isPermaLink="false">d94703dc-8769-4b43-b092-86a6d239f9f5</guid>
+            <pubDate>Tue, 29 Dec 2015 07:19:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I love morning #coffeedate especially in #Sausalito @cibosausalito]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad821585-6fce-469b-9af0-8cd05e60b581.jpg</link>
             <guid isPermaLink="false">c583321a-3bc1-4d5b-a468-dfce166f4fcd</guid>
             <pubDate>Thu, 29 Oct 2015 21:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Art is a harmony parallel with nature.]]></title>
-            <description><![CDATA[<article><h1>Art is a harmony parallel with nature.</h1><p>― Paul Cézanne</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fb318c389ad6c7c5cb33537f08245ab9327762a.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b44061c4-5da4-4701-aa38-816b95035acb.jpg</link>
-            <guid isPermaLink="false">3559414e-6670-465b-8ce3-80e2dfe73ed5</guid>
-            <pubDate>Thu, 29 Oct 2015 21:13:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
