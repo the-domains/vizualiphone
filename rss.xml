@@ -4,7 +4,7 @@
         <description><![CDATA[myothercamera.is]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 07:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 07:49:39 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Last month I was honored to be asked to teach a lighting class to a group of photographers in San Diego. During the class, I shot some images I wanted to share. If anyone else wants to take a class and bring me back to San Diego and get me out of the cold...let me know! ]]></title>
@@ -26,6 +26,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5e866dc-ff54-49e7-a747-ed4ed061673e.jpg</link>
             <guid isPermaLink="false">f5105549-6968-475d-aa8e-532fec3d37b8</guid>
             <pubDate>Thu, 24 Dec 2015 08:51:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a633b51-eb10-4367-8fe9-360c79fd9ef7.jpg">]]></description>
+            <link>http://myothercamera.is/2fc7840c-a6d7-4646-8ce5-1c56898f10d3/index.html</link>
+            <guid isPermaLink="false">2fc7840c-a6d7-4646-8ce5-1c56898f10d3</guid>
+            <pubDate>Tue, 29 Dec 2015 07:48:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/-J_vdJIZPs/?taken-by=jeffrey_woods</link>
             <guid isPermaLink="false">26c60e35-6d8f-4cdb-97e5-9531b0307e00</guid>
             <pubDate>Tue, 29 Dec 2015 07:43:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What I am finding out is that anxiety has its own agenda and it has nothing to do with me or my well being. @apexmandate #apexmandate]]></title>
-            <description><![CDATA[<article><h1>What I am finding out is that anxiety has its own agenda and it has nothing to do with me or my well being. @apexmandate #apexmandate</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5551b7ecfc5a4a3c5529ea5179c3b0c74863e054.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/8Q293JoZDE/?taken-by=jeffrey_woods</link>
-            <guid isPermaLink="false">8999d993-708f-49a4-bddc-9be63c96b3f4</guid>
-            <pubDate>Tue, 29 Dec 2015 07:42:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
