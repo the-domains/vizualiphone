@@ -4,7 +4,7 @@
         <description><![CDATA[myothercamera.is]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 07:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 07:49:00 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Last month I was honored to be asked to teach a lighting class to a group of photographers in San Diego. During the class, I shot some images I wanted to share. If anyone else wants to take a class and bring me back to San Diego and get me out of the cold...let me know! ]]></title>
@@ -26,6 +26,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5e866dc-ff54-49e7-a747-ed4ed061673e.jpg</link>
             <guid isPermaLink="false">f5105549-6968-475d-aa8e-532fec3d37b8</guid>
             <pubDate>Thu, 24 Dec 2015 08:51:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a91990f5-017f-4a13-af7a-274afdea14ba.jpg">]]></description>
+            <link>http://myothercamera.is/aceaaf0c-c070-41f2-ba44-58b47d618876/index.html</link>
+            <guid isPermaLink="false">aceaaf0c-c070-41f2-ba44-58b47d618876</guid>
+            <pubDate>Tue, 29 Dec 2015 07:48:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/8Q293JoZDE/?taken-by=jeffrey_woods</link>
             <guid isPermaLink="false">8999d993-708f-49a4-bddc-9be63c96b3f4</guid>
             <pubDate>Tue, 29 Dec 2015 07:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A good spot close to our home to chill and reflect...also not a bad view of the #russianrivervalley where the best Pinot Noir is made...#makemoments @moment_lens thanks to @julia_woods_beautiful_outcome for always encouraging me to take walks.]]></title>
-            <description><![CDATA[<article><h1>A good spot close to our home to chill and reflect...also not a bad view of the #russianrivervalley where the best Pinot Noir is made...#makemoments @moment_lens thanks to @julia_woods_beautiful_outcome for always encouraging me to take walks.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dd887c56ba1250e239ab4153e3fc1507746f468.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/76VIpeoZCU/?taken-by=jeffrey_woods</link>
-            <guid isPermaLink="false">b4681f70-20f5-47be-ba95-07a3b4ce93b7</guid>
-            <pubDate>Tue, 29 Dec 2015 07:42:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
