@@ -10,27 +10,27 @@ publisher:
   favicon: 'https://steller.co/site/static/img/v1.2.71/favicon.ico'
   domain: steller.co
 keywords:
-  - venice
-  - gondola
-  - city
-  - gondolier
-  - prongs
-  - canal
-  - teeth
-  - six
-  - curved
-  - symbolic
-description: 'Walkabout I VENEZIA I The origin of Venice dates back to the mid 400, over 1500 years ago. The name is derived from the ancient Veneti people who inhabited the region by the 10th century BC. The city historically was the capital of the Republic of Venice. Venice'
+  - theodore
+  - deeds
+  - strive
+  - roosevelt
+  - daring
+  - greatly
+  - arena
+  - doer
+  - jefnjul
+  - spirit
+description: 'JACKSON Arena of American Spirit ADVICE FROM A BUFFALO&#58; Stand your ground Have a tough hide Keep moving Have a strong spirit Roam WILD AND FREE TAKE RISKS "Do what you can, with what you have, where you are." ― Theodore Roosevelt DARING GREATLY "It is not the'
 inLanguage: en
 app_links:
-  - url: 'steller://open-story?id=480376504488822414'
+  - url: 'steller://open-story?id=479798352708371572'
     type: ios
     app_store_id: '785128002'
     app_name: steller
-isBasedOnUrl: 'https://steller.co/s/4H43gg52NX8'
+isBasedOnUrl: 'https://steller.co/s/4Gu3uKq8Bfk'
 title: Check out this story by jeffrey woods on @stellerstories
-datePublished: '2015-12-29T08:21:46.806Z'
-dateModified: '2015-12-29T08:19:48.359Z'
+datePublished: '2015-12-29T08:21:46.925Z'
+dateModified: '2015-12-29T08:19:15.402Z'
 sourcePath: _posts/2015-12-29-check-out-this-story-by-jeffrey-woods-on-stellerstories.md
 published: true
 inFeed: true
@@ -40,4 +40,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Check out this story by jeffrey woods on &amp;commat;stellerstories</h1><p>Walkabout I VENEZIA I The origin of Venice dates back to the mid 400&amp;comma; over 1500 years ago&amp;period; The name is derived from the ancient Veneti people who inhabited the region by the 10th century BC&amp;period; The city historically was the capital of the Republic of Venice&amp;period; Venice</p><img src="https://steller.co/stories/480376504488822414/cover?size=640x960" /></article>
+<article style=""><h1>Check out this story by jeffrey woods on &amp;commat;stellerstories</h1><p>JACKSON Arena of American Spirit ADVICE FROM A BUFFALO&amp;&amp;num;58&amp;semi; Stand your ground Have a tough hide Keep moving Have a strong spirit Roam WILD AND FREE TAKE RISKS "Do what you can&amp;comma; with what you have&amp;comma; where you are&amp;period;" ― Theodore Roosevelt DARING GREATLY "It is not the</p><img src="https://steller.co/stories/479798352708371572/cover?size=640x960" /></article>
