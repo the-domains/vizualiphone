@@ -4,7 +4,7 @@
         <description><![CDATA[myothercamera.is]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 08:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 08:22:46 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Last month I was honored to be asked to teach a class lighting to a group of photographers in San Diego. During the class, I shot some images I wanted to share. ]]></title>
@@ -26,6 +26,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5e866dc-ff54-49e7-a747-ed4ed061673e.jpg</link>
             <guid isPermaLink="false">f5105549-6968-475d-aa8e-532fec3d37b8</guid>
             <pubDate>Thu, 24 Dec 2015 08:51:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Check out this story by jeffrey woods on @stellerstories]]></title>
+            <description><![CDATA[<article><h1>Check out this story by jeffrey woods on @stellerstories</h1><p>JACKSON Arena of American Spirit ADVICE FROM A BUFFALO&#58; Stand your ground Have a tough hide Keep moving Have a strong spirit Roam WILD AND FREE TAKE RISKS "Do what you can, with what you have, where you are." ― Theodore Roosevelt DARING GREATLY "It is not the</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/911d7effd4bdd5fbb18a374b616c51e885f88c61.jpg"></article>]]></description>
+            <link>https://steller.co/s/4Gu3uKq8Bfk</link>
+            <guid isPermaLink="false">b6e86570-625c-4a63-b32a-dd576960a086</guid>
+            <pubDate>Tue, 29 Dec 2015 08:21:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Check out this story by jeffrey woods on @stellerstories]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/-jcAvFIZJC/?taken-by=jeffrey_woods</link>
             <guid isPermaLink="false">647dc3eb-eefa-4be8-8588-02a1cecadc70</guid>
             <pubDate>Tue, 29 Dec 2015 07:43:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Transition.]]></title>
-            <description><![CDATA[<article><h1>In Transition.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbac298036f32c7659978ccfe1ca433679991179.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/-MvsGvIZAh/?taken-by=jeffrey_woods</link>
-            <guid isPermaLink="false">488d1e4e-cf64-45ce-abb1-113f572a3a32</guid>
-            <pubDate>Tue, 29 Dec 2015 07:19:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
