@@ -4,7 +4,7 @@
         <description><![CDATA[myothercamera.is]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 07:49:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 07:49:45 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Last month I was honored to be asked to teach a lighting class to a group of photographers in San Diego. During the class, I shot some images I wanted to share. If anyone else wants to take a class and bring me back to San Diego and get me out of the cold...let me know! ]]></title>
@@ -26,6 +26,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5e866dc-ff54-49e7-a747-ed4ed061673e.jpg</link>
             <guid isPermaLink="false">f5105549-6968-475d-aa8e-532fec3d37b8</guid>
             <pubDate>Thu, 24 Dec 2015 08:51:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e57b3ed7-5b58-434e-a2bb-91a20edf8209.jpg">]]></description>
+            <link>http://myothercamera.is/fb316b9a-0535-4bd1-9f44-a1ae0b9fe6a9/index.html</link>
+            <guid isPermaLink="false">fb316b9a-0535-4bd1-9f44-a1ae0b9fe6a9</guid>
+            <pubDate>Tue, 29 Dec 2015 07:48:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/-MvsGvIZAh/?taken-by=jeffrey_woods</link>
             <guid isPermaLink="false">488d1e4e-cf64-45ce-abb1-113f572a3a32</guid>
             <pubDate>Tue, 29 Dec 2015 07:19:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My brother in law has had a week of transformation in his life while attending BreakThrough #ACCD. Very proud of him and the fact that he is stepping into a better future for himself and his family. #showup 📸: #fujixt1 edit 📲: @vsco #vsco]]></title>
-            <description><![CDATA[<article><h1>My brother in law has had a week of transformation in his life while attending BreakThrough #ACCD. Very proud of him and the fact that he is stepping into a better future for himself and his family. #showup 📸: #fujixt1 edit 📲: @vsco #vsco</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cba3bd307e19523a4199eb0799f7ce1d2df8c9bc.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/-J_vdJIZPs/?taken-by=jeffrey_woods</link>
-            <guid isPermaLink="false">26c60e35-6d8f-4cdb-97e5-9531b0307e00</guid>
-            <pubDate>Tue, 29 Dec 2015 07:43:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
