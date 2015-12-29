@@ -2,30 +2,30 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'https://steller.co/s/4H43gg52NX8'
+isBasedOnUrl: 'https://steller.co/s/4Gu3uKq8Bfk'
 inLanguage: en
 starred: false
 keywords:
-  - venice
-  - gondola
-  - city
-  - gondolier
-  - prongs
-  - canal
-  - teeth
-  - six
-  - curved
-  - symbolic
-description: 'Walkabout I VENEZIA I The origin of Venice dates back to the mid 400, over 1500 years ago. The name is derived from the ancient Veneti people who inhabited the region by the 10th century BC. The city historically was the capital of the Republic of Venice. Venice'
-datePublished: '2015-12-29T17:58:55.924Z'
-dateModified: '2015-12-29T17:58:51.962Z'
+  - theodore
+  - deeds
+  - strive
+  - roosevelt
+  - daring
+  - greatly
+  - arena
+  - doer
+  - jefnjul
+  - spirit
+description: 'JACKSON Arena of American Spirit ADVICE FROM A BUFFALO&#58; Stand your ground Have a tough hide Keep moving Have a strong spirit Roam WILD AND FREE TAKE RISKS "Do what you can, with what you have, where you are." ― Theodore Roosevelt DARING GREATLY "It is not the'
+datePublished: '2015-12-29T17:59:18.311Z'
+dateModified: '2015-12-29T17:59:14.649Z'
 author:
   - name: ''
     url: 'https://steller.co/vizual/'
     avatar: {}
 related: []
 app_links:
-  - url: 'steller://open-story?id=480376504488822414'
+  - url: 'steller://open-story?id=479798352708371572'
     type: ios
     app_store_id: '785128002'
     app_name: steller
@@ -42,4 +42,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Check out this story by jeffrey woods on @stellerstories</h1><p>Walkabout I VENEZIA I The origin of Venice dates back to the mid 400, over 1500 years ago. The name is derived from the ancient Veneti people who inhabited the region by the 10th century BC. The city historically was the capital of the Republic of Venice. Venice</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34b6218acdb35072d160d77c718f900d9aba98b3.jpg" /></article>
+<article style=""><h1>Check out this story by jeffrey woods on @stellerstories</h1><p>JACKSON Arena of American Spirit ADVICE FROM A BUFFALO&amp;#58; Stand your ground Have a tough hide Keep moving Have a strong spirit Roam WILD AND FREE TAKE RISKS "Do what you can, with what you have, where you are." ― Theodore Roosevelt DARING GREATLY "It is not the</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/017db696d7196fc639e49293b8633e2bb68eaf15.jpg" /></article>
