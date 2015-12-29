@@ -2,27 +2,30 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'https://steller.co/s/4JRPjABNCcK'
+isBasedOnUrl: 'https://steller.co/s/4H43gg52NX8'
 inLanguage: en
 starred: false
 keywords:
-  - jeffrey_woods
-  - https
-  - instagram
-  - iphone
-  - giants
-  - shoulders
-  - upon
-  - shot
-  - video
-  - images
-description: 'OF GIANTS AVENUE Wisdom begins in WONDER SOCRATES "If I have seen further than others, it is by standing upon the shoulders of giants ." ISAAC NEWTON It&#39;s not what you look at that matters, Its what you see. Soren Kierkegaard "Face the facts of'
-datePublished: '2015-12-29T17:59:40.143Z'
-dateModified: '2015-12-29T17:59:35.524Z'
-author: []
+  - venice
+  - gondola
+  - city
+  - gondolier
+  - prongs
+  - canal
+  - teeth
+  - six
+  - curved
+  - symbolic
+description: 'Walkabout I VENEZIA I The origin of Venice dates back to the mid 400, over 1500 years ago. The name is derived from the ancient Veneti people who inhabited the region by the 10th century BC. The city historically was the capital of the Republic of Venice. Venice'
+datePublished: '2015-12-29T18:03:18.574Z'
+dateModified: '2015-12-29T18:03:12.864Z'
+author:
+  - name: ''
+    url: 'https://steller.co/vizual/'
+    avatar: {}
 related: []
 app_links:
-  - url: 'steller://open-story?id=485753664460293791'
+  - url: 'steller://open-story?id=480376504488822414'
     type: ios
     app_store_id: '785128002'
     app_name: steller
@@ -39,4 +42,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Check out this story by jeffrey woods on @stellerstories</h1><p>OF GIANTS AVENUE Wisdom begins in WONDER SOCRATES "If I have seen further than others, it is by standing upon the shoulders of giants ." ISAAC NEWTON It&amp;#39;s not what you look at that matters, Its what you see. Soren Kierkegaard "Face the facts of</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85a2c44b8b03a332be95225b70a8322b10265524.jpg" /></article>
+<article style=""><h1>Check out this story by jeffrey woods on @stellerstories</h1><p>Walkabout I VENEZIA I The origin of Venice dates back to the mid 400, over 1500 years ago. The name is derived from the ancient Veneti people who inhabited the region by the 10th century BC. The city historically was the capital of the Republic of Venice. Venice</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34b6218acdb35072d160d77c718f900d9aba98b3.jpg" /></article>
