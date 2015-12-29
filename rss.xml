@@ -4,8 +4,15 @@
         <description><![CDATA[myothercamera.is]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 07:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 07:48:51 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Last month I was honored to be asked to teach a lighting class to a group of photographers in San Diego. During the class, I shot some images I wanted to share. If anyone else wants to take a class and bring me back to San Diego and get me out of the cold...let me know! ]]></title>
+            <description><![CDATA[<article><h1>Last month I was honored to be asked to teach a lighting class to a group of photographers in San Diego. During the class, I shot some images I wanted to share. If anyone else wants to take a class and bring me back to San Diego and get me out of the cold...let me know! </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1349ef5b5564e47d231f71d966ceec392e5511b3.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4c3bb79-f63a-415b-942f-4c6dca351e03.jpg</link>
+            <guid isPermaLink="false">df968443-11d5-4609-bae1-90ed76561dd7</guid>
+            <pubDate>Tue, 29 Dec 2015 07:48:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My Other Camera Is]]></title>
             <description><![CDATA[<article><h1>My Other Camera Is</h1><p>This site is dedicated to all things iPhone all images and video was taken with an iPhone 6+. This site was published and built on the iPhone 6+ using The Grid iOS app. The Grid has created new programming language for layout design harnessing the power of A.I. for a pragmatic design of feed-based layouts.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f56c7bdea5b0529d1aa5d887b57df5342320d45.gif"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/76VIpeoZCU/?taken-by=jeffrey_woods</link>
             <guid isPermaLink="false">b4681f70-20f5-47be-ba95-07a3b4ce93b7</guid>
             <pubDate>Tue, 29 Dec 2015 07:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Came upon this cute little coffee house...pretty legit actually. This W kid decided to pose for me.]]></title>
-            <description><![CDATA[<article><h1>Came upon this cute little coffee house...pretty legit actually. This W kid decided to pose for me.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27fb2b66e2fbbca0aae1bab83e115e457224adb5.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/7Td9YRoZKG/?taken-by=jeffrey_woods</link>
-            <guid isPermaLink="false">d94703dc-8769-4b43-b092-86a6d239f9f5</guid>
-            <pubDate>Tue, 29 Dec 2015 07:41:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
