@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Twenty years of experience as parents, entrepreneurs, artists, educators, and creative thinkers, We have learned the hard way that life without a vision will end in the death of spirit, passion and curiosity. This year we will be offering new ways to fire up your creative spirit through workshops and coaching podcasts. https://twitter.com/JefnJul '
-datePublished: '2015-12-29T19:41:42.888Z'
-dateModified: '2015-12-29T19:41:33.271Z'
+datePublished: '2015-12-29T19:41:51.298Z'
+dateModified: '2015-12-29T19:41:45.751Z'
 author: []
 title: Jeffrey and Julia Woods
 tags:
