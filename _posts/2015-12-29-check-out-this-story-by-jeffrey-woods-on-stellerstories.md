@@ -15,8 +15,8 @@ app_links:
     app_name: steller
 isBasedOnUrl: 'https://steller.co/s/4NJmuMYB6F7'
 title: Check out this story by jeffrey woods on @stellerstories
-datePublished: '2015-12-29T17:16:31.198Z'
-dateModified: '2015-12-29T17:15:35.027Z'
+datePublished: '2015-12-29T17:58:26.457Z'
+dateModified: '2015-12-29T17:16:50.597Z'
 sourcePath: _posts/2015-12-29-check-out-this-story-by-jeffrey-woods-on-stellerstories.md
 published: true
 inFeed: true
