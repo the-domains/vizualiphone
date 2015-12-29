@@ -2,30 +2,27 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'https://steller.co/s/4Gu3uKq8Bfk'
+isBasedOnUrl: 'https://steller.co/s/4JRPjABNCcK'
 inLanguage: en
 starred: false
 keywords:
-  - theodore
-  - deeds
-  - strive
-  - roosevelt
-  - daring
-  - greatly
-  - arena
-  - doer
-  - jefnjul
-  - spirit
-description: 'JACKSON Arena of American Spirit ADVICE FROM A BUFFALO&#58; Stand your ground Have a tough hide Keep moving Have a strong spirit Roam WILD AND FREE TAKE RISKS "Do what you can, with what you have, where you are." ― Theodore Roosevelt DARING GREATLY "It is not the'
-datePublished: '2015-12-29T17:59:18.311Z'
-dateModified: '2015-12-29T17:59:14.649Z'
-author:
-  - name: ''
-    url: 'https://steller.co/vizual/'
-    avatar: {}
+  - jeffrey_woods
+  - https
+  - instagram
+  - iphone
+  - giants
+  - shoulders
+  - upon
+  - shot
+  - video
+  - images
+description: 'OF GIANTS AVENUE Wisdom begins in WONDER SOCRATES "If I have seen further than others, it is by standing upon the shoulders of giants ." ISAAC NEWTON It&#39;s not what you look at that matters, Its what you see. Soren Kierkegaard "Face the facts of'
+datePublished: '2015-12-29T17:59:40.143Z'
+dateModified: '2015-12-29T17:59:35.524Z'
+author: []
 related: []
 app_links:
-  - url: 'steller://open-story?id=479798352708371572'
+  - url: 'steller://open-story?id=485753664460293791'
     type: ios
     app_store_id: '785128002'
     app_name: steller
@@ -42,4 +39,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Check out this story by jeffrey woods on @stellerstories</h1><p>JACKSON Arena of American Spirit ADVICE FROM A BUFFALO&amp;#58; Stand your ground Have a tough hide Keep moving Have a strong spirit Roam WILD AND FREE TAKE RISKS "Do what you can, with what you have, where you are." ― Theodore Roosevelt DARING GREATLY "It is not the</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/017db696d7196fc639e49293b8633e2bb68eaf15.jpg" /></article>
+<article style=""><h1>Check out this story by jeffrey woods on @stellerstories</h1><p>OF GIANTS AVENUE Wisdom begins in WONDER SOCRATES "If I have seen further than others, it is by standing upon the shoulders of giants ." ISAAC NEWTON It&amp;#39;s not what you look at that matters, Its what you see. Soren Kierkegaard "Face the facts of</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85a2c44b8b03a332be95225b70a8322b10265524.jpg" /></article>
