@@ -47,6 +47,6 @@ color:
     - '#b5b7b9'
   brandStrength: 0
   lightness: 1
-  saturation: 1
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
