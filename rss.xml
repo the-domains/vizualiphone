@@ -4,7 +4,7 @@
         <description><![CDATA[myothercamera.is]]></description>
         <link>http://myothercamera.is/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 21:46:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2015 21:47:58 GMT</lastBuildDate>
         <atom:link href="http://myothercamera.is/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/482caa18-8dd6-494e-b7e6-1ae9d14e4a07.gif</link>
             <guid isPermaLink="false">7729de38-0b0c-4d70-b557-698b6adafc54</guid>
             <pubDate>Thu, 29 Oct 2015 21:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d11e22b-3503-4390-96f7-e09337253a5c.jpg">]]></description>
+            <link>http://myothercamera.is/a4db389f-edc1-43e0-8c16-364f3c3bf571/index.html</link>
+            <guid isPermaLink="false">a4db389f-edc1-43e0-8c16-364f3c3bf571</guid>
+            <pubDate>Wed, 30 Dec 2015 21:47:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://steller.co/s/4NJmuMYB6F7</link>
             <guid isPermaLink="false">a89dd539-fa41-4f9f-8a78-a0fb66a0cf2a</guid>
             <pubDate>Tue, 29 Dec 2015 17:58:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Check out this story by jeffrey woods on @stellerstories]]></title>
-            <description><![CDATA[<article><h1>Check out this story by jeffrey woods on @stellerstories</h1><p>JACKSON Arena of American Spirit ADVICE FROM A BUFFALO&#58; Stand your ground Have a tough hide Keep moving Have a strong spirit Roam WILD AND FREE TAKE RISKS "Do what you can, with what you have, where you are." ― Theodore Roosevelt DARING GREATLY "It is not the</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee81c14d571f45d66cbef993e7bef31b66b064b8.jpg"></article>]]></description>
-            <link>https://steller.co/s/4Gu3uKq8Bfk</link>
-            <guid isPermaLink="false">b6e86570-625c-4a63-b32a-dd576960a086</guid>
-            <pubDate>Tue, 29 Dec 2015 17:59:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
