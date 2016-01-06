@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-29T07:42:43.345Z'
-dateModified: '2015-12-29T07:42:40.574Z'
+datePublished: '2016-01-06T22:02:26.104Z'
+dateModified: '2016-01-06T22:02:17.449Z'
 author:
   - name: jeffrey_woods
     url: 'https://www.instagram.com/jeffrey_woods'
@@ -36,4 +36,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![What I am finding out is that anxiety has its own agenda and it has nothing to do with me or my well being. @apexmandate #apexmandate](https://s3-us-west-2.amazonaws.com/the-grid-img/p/48a53fd6639f4b01bf72652cd9cf68d95fcd0804.jpg)
+![What I am finding out is that anxiety has its own agenda and it has nothing to do with me or my well being. @apexmandate #apexmandate](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5551b7ecfc5a4a3c5529ea5179c3b0c74863e054.jpg)
