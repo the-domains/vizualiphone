@@ -43,8 +43,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://iphonephotographyschool.com/category/tutorials/creativity/'
 title: Creativity - iPhone Photography School
-datePublished: '2016-01-20T16:49:49.132Z'
-dateModified: '2016-01-20T16:40:10.008Z'
+datePublished: '2016-01-20T16:49:49.365Z'
+dateModified: '2016-01-20T15:21:49.803Z'
 sourcePath: _posts/2016-01-20-creativity-iphone-photography-school.md
 published: true
 inFeed: true
